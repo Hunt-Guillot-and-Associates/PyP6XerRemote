@@ -1,5 +1,5 @@
-# PyP6Xer Python Primavera P6 XER parser
-PyXer is an open source project to parse Primavera xer files in python. The project is work in progress and open for community contributions. 
+# PyXerRemote Python Primavera P6 XER parser for remote files
+PyXerRemote is a branch of PyP6Xer which is an open source project to parse Primavera xer files in python. The project is work in progress and open for community contributions. 
 
 In order to install a copy in your system you can use pip package manager as follows:
 
@@ -16,7 +16,7 @@ from xerparser.reader import Reader
 Here are some examples of reading and parsing xer files:
 
 ```
-xer = Reader("<filename>") # this returns a reader object  
+xer = Reader("url") # this returns a reader object  
 ```
 
 to reade all projects in file as one xer file may have multiple projects stored into it:
