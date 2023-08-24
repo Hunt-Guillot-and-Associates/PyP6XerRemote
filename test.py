@@ -1,3 +1,4 @@
+import codecs
 from pprint import pprint
 from xerparser.reader import Reader
 from xerparser import *
@@ -9,9 +10,11 @@ from xerparser.reader import Reader
 
 
 
-urlval = "https://example.com/Project1.xer"
 
-xer = Reader(urlval)
+file = open('example.xer', "r", errors='ignore')
+
+
+xer = Reader(file)
 
 
 # BUILD ACT REFERENCE

@@ -280,8 +280,8 @@ class Reader:
     def nonworks(self) -> List[NonWork]:
         return self._nonworks
 
-    def __init__(self, url):
-        file = urllib.request.urlopen(url)
+    def __init__(self, file):
+        file = file
         self._tasks = Tasks()
         self._predecessors = Predecessors()
         self._projects = Projects()
@@ -319,7 +319,7 @@ class Reader:
         self._data.taskresource = self._activityresources
         self._data.taskactvcodes = self._activitycodes
         self._data.predecessors = self._predecessors
-        csvfile = csv.reader(codecs.iterdecode(file, 'utf-8',errors='ignore'), delimiter='\t')
+        csvfile = csv.reader(file, delimiter='\t')
         for row in csvfile:
             if row[0] =="%T":
                 current_table = row[1]
