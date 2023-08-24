@@ -1,0 +1,2561 @@
+WBS: AMOGY Project Green World - Catch Up Schedule
+
+WBS: PROJECT MILESTONES
+
+    Activity ID  140499 |  PP-1040  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 17:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  TCEQ Permit Complete
+
+        PRED | ACTIVITY ID PEM-010 | ACTIVITY NAME Phase 0 - TCEQ | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140506 |  PP-1020  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:30:00 | End Date: 2023-09-18 08:30:00   | Activity Name |  IFC Complete for Permitting
+
+        PRED | ACTIVITY ID PP-1050 | ACTIVITY NAME IFC Complete | RELATION TYPE PR_FF | LAG -128.0
+
+    Activity ID  140500 |  PP-1030  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-20 17:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Major Equipment PO Complete
+
+        PRED | ACTIVITY ID PO_ME150 | ACTIVITY NAME Delivery of OEM and Operating Manuals (Phase 4 Permit) - M&E | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140505 |  PP-1010  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-09-28 08:00:00   | Activity Name |  Construction Mobilization Start
+
+        PRED | ACTIVITY ID CM-1000 | ACTIVITY NAME Mobilization | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140497 |  PP-1050  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-10 08:30:00 | End Date: 2023-10-10 08:30:00   | Activity Name |  IFC Complete
+
+        PRED | ACTIVITY ID DE.MP1020 | ACTIVITY NAME HVAC equipment location plans | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.MP1030 | ACTIVITY NAME HVAC duct routing plans | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.MP1040 | ACTIVITY NAME Fire Protection Plans and Details | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.MP1050 | ACTIVITY NAME Orthos (Plan and Section drawings) | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0100 | ACTIVITY NAME Site Plot Plan | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1010 | ACTIVITY NAME Plumbing and drainage drawings | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1020 | ACTIVITY NAME Architechture IFC (KSS) | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1040 | ACTIVITY NAME Sewer and Drainage IFC | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1050 | ACTIVITY NAME Structural Steel IFC | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1060 | ACTIVITY NAME Demolition Plan Drawings | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0101 | ACTIVITY NAME Foundation location plan | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1090 | ACTIVITY NAME Steel Plans and Sections | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1110 | ACTIVITY NAME Foundation IFC | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1011 | ACTIVITY NAME Infrastructure Electrical IFC | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1003 | ACTIVITY NAME Electrical Riser Diagrams | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1004 | ACTIVITY NAME Load / Motor List; Load Analysis | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1005 | ACTIVITY NAME Hazardous Area Classification Drawings | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1006 | ACTIVITY NAME Power and Grounding Plans | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1007 | ACTIVITY NAME Outdoor lighting plans | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1008 | ACTIVITY NAME Cable and Conduit schedule | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1009 | ACTIVITY NAME Panel and Junction Box schedules / wiring diagrams | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1010 | ACTIVITY NAME Installation Details | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.I-1000 | ACTIVITY NAME Instrument IFC | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.I-1010 | ACTIVITY NAME Networking Diagram | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.I-1020 | ACTIVITY NAME Instrument Index | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.I-1030 | ACTIVITY NAME I/O List | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.I-1040 | ACTIVITY NAME Instrument Datasheets / Cutsheets | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.I-1050 | ACTIVITY NAME Cable and Conduit schedule | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.I-1060 | ACTIVITY NAME Panel and Junction Box schedules / wiring diagrams | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.I-1070 | ACTIVITY NAME Installation Details | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0101 | ACTIVITY NAME Foundation location plan | RELATION TYPE PR_SF | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1010 | ACTIVITY NAME One Line Diagram | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140498 |  PP-1080  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-25 17:00:00 | End Date: 2023-10-25 17:00:00   | Activity Name |  Demolition Permit Complete
+
+        PRED | ACTIVITY ID PEM-030 | ACTIVITY NAME Phase 2 - Demolition Permit | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140510 |  PP-1060  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-25 17:00:00 | End Date: 2023-10-25 17:00:00   | Activity Name |  Drainage & Sewer Permit Complete
+
+        PRED | ACTIVITY ID PEM-020 | ACTIVITY NAME Phase 1 - Sewer and Drainage Permit | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140502 |  PP-1090  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-26 08:00:00 | End Date: 2023-10-26 08:00:00   | Activity Name |  Demolition Start
+
+        PRED | ACTIVITY ID CM-1010 | ACTIVITY NAME Demolition of the Wall and structure support | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140512 |  PP-1070  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-26 08:00:00 | End Date: 2023-10-26 08:00:00   | Activity Name |  Drainage & Sewer SOW Start
+
+        PRED | ACTIVITY ID A1050 | ACTIVITY NAME Drainage & Sewer Construction | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140501 |  PP-1150  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-21 17:00:00 | End Date: 2023-12-21 17:00:00   | Activity Name |  All Material/Equipment Delivered
+
+        PRED | ACTIVITY ID V_M100F410 | ACTIVITY NAME Electrical Cables - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140507 |  PP-1100  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-22 08:30:00 | End Date: 2023-12-22 08:30:00   | Activity Name |  Foundation Permit complete
+
+        PRED | ACTIVITY ID PEM-040 | ACTIVITY NAME Phase 3 - Foundation Permit for Equipment | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140508 |  PP-1120  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-22 08:30:00 | End Date: 2023-12-22 08:30:00   | Activity Name |  Foundation SOW Start
+
+        PRED | ACTIVITY ID CM-1020 | ACTIVITY NAME Foundation start | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140513 |  PP-1140  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-29 08:00:00 | End Date: 2023-12-29 08:00:00   | Activity Name |  Early Testing Rooms & Infrastructure General Construction Start
+
+        PRED | ACTIVITY ID CM-1030 | ACTIVITY NAME Three Rooms Architect Construction | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140509 |  PP-1130  | driving_path_flag |  N  | Pred |  Start Date: 2024-01-03 17:00:00 | End Date: 2024-01-03 17:00:00   | Activity Name |  General Construction Permit Complete
+
+        PRED | ACTIVITY ID PEM-060 | ACTIVITY NAME Phase 5 - Building Permit (Remaining Scope) | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140515 |  PP-1160  | driving_path_flag |  N  | Pred |  Start Date: 2024-01-31 08:30:00 | End Date: 2024-01-31 08:30:00   | Activity Name |  Commissioning and Startup Start
+
+        PRED | ACTIVITY ID CM-1090 | ACTIVITY NAME Commissioing | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140514 |  PP-1170  | driving_path_flag |  N  | Pred |  Start Date: 2024-02-16 17:00:00 | End Date: 2024-02-16 17:00:00   | Activity Name |  Early Testing Rooms & Infrastructure General Construction Start
+
+        PRED | ACTIVITY ID CM-1030 | ACTIVITY NAME Three Rooms Architect Construction | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140503 |  PP-1180  | driving_path_flag |  N  | Pred |  Start Date: 2024-03-07 08:30:00 | End Date: 2024-03-07 08:30:00   | Activity Name |  Commissioning and Startup Complete
+
+        PRED | ACTIVITY ID CM-1090 | ACTIVITY NAME Commissioing | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140521 |  PP-1190  | driving_path_flag |  Y  | Pred |  Start Date: 2024-05-08 08:30:00 | End Date: 2024-05-08 08:30:00   | Activity Name |  Remaining Scopes Complete
+
+        PRED | ACTIVITY ID CM-1110 | ACTIVITY NAME Electrical - Remaining Scopes | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID CM-1130 | ACTIVITY NAME Instrumentation - Remaining Scopes | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID CM-1120 | ACTIVITY NAME Mechanical - Remaining Scopes | RELATION TYPE PR_FF | LAG 0.0
+
+WBS: PERMIT
+
+    Activity ID  140447 |  PEM-010  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-01 00:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Phase 0 - TCEQ
+
+    Activity ID  140461 |  PEM-020  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 08:00:00 | End Date: 2023-10-25 17:00:00   | Activity Name |  Phase 1 - Sewer and Drainage Permit
+
+        PRED | ACTIVITY ID DE.C-1040 | ACTIVITY NAME Sewer and Drainage IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140462 |  PEM-030  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 08:00:00 | End Date: 2023-10-25 17:00:00   | Activity Name |  Phase 2 - Demolition Permit
+
+        PRED | ACTIVITY ID DE.C-1060 | ACTIVITY NAME Demolition Plan Drawings | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1120 | ACTIVITY NAME Structure Modification Calculation and Drawings | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140448 |  PEM-040  | driving_path_flag |  Y  | Pred |  Start Date: 2023-10-10 08:30:00 | End Date: 2023-12-22 08:30:00   | Activity Name |  Phase 3 - Foundation Permit for Equipment
+
+        PRED | ACTIVITY ID DE.C-1110 | ACTIVITY NAME Foundation IFC | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID C.0160 | ACTIVITY NAME Foundation Plans & Details - Separator | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID C.0102 | ACTIVITY NAME Foundation Plans & Details - Ammonia Scrubber | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID C.0150 | ACTIVITY NAME Foundation Plans & Details - Selective Catalytic Reactor | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID C.180 | ACTIVITY NAME Foundation Plans & Details - HydrogenTank | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID C.0180 | ACTIVITY NAME Foundation Plans & Details - Nitrogen Tank | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID C.0170 | ACTIVITY NAME Foundation Plans & Details - Boiler | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID C.0140 | ACTIVITY NAME Foundation Plans & Details - Plate & Frame Cooler | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID C.0130 | ACTIVITY NAME Foundation Plans & Details - Cooling Tower | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID C.0110 | ACTIVITY NAME Foundation Plans & Details - Ammonia Storage Tank 1&2 | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID C.0101 | ACTIVITY NAME Foundation location plan | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140516 |  PEM-050  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-17 08:00:00 | End Date: 2023-12-28 17:00:00   | Activity Name |  Phase 4 - Infrastructure and 3 Test Room Build Out Permit
+
+        PRED | ACTIVITY ID DE.E-1011 | ACTIVITY NAME Infrastructure Electrical IFC | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DE.MP1100 | ACTIVITY NAME Mechanical Equipment IFC | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1050 | ACTIVITY NAME Structural Steel IFC | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID PO_ME150 | ACTIVITY NAME Delivery of OEM and Operating Manuals (Phase 4 Permit) - M&E | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1010 | ACTIVITY NAME One Line Diagram | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1020 | ACTIVITY NAME Panel Schedule | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1030 | ACTIVITY NAME Cable Schedule | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1040 | ACTIVITY NAME Power Study | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1050 | ACTIVITY NAME Lighting Plans | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1060 | ACTIVITY NAME Cable Tray Routing Plans | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140449 |  PEM-060  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-23 08:00:00 | End Date: 2024-01-03 17:00:00   | Activity Name |  Phase 5 - Building Permit (Remaining Scope)
+
+        PRED | ACTIVITY ID DE.C-1020 | ACTIVITY NAME Architechture IFC (KSS) | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1050 | ACTIVITY NAME Structural Steel IFC | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1011 | ACTIVITY NAME Infrastructure Electrical IFC | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1110 | ACTIVITY NAME Foundation IFC | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1110 | ACTIVITY NAME Remaining Scope Electrical IFC | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH5.1010 | ACTIVITY NAME One Line Diagram | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH5.1020 | ACTIVITY NAME Panel Schedule | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH5.1030 | ACTIVITY NAME Cable Schedule | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH5.1040 | ACTIVITY NAME Power Study | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH5.1050 | ACTIVITY NAME Lighting Plans | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH5.1060 | ACTIVITY NAME Cable Tray Routing Plans | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: AMOGY
+
+    Activity ID  140558 |  DEC10  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-11 17:00:00   | Activity Name |  Cooling Tower Process Design (Amogy) - 3 Options
+
+    Activity ID  140559 |  DEC20  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-11 17:00:00   | Activity Name |  2 Vertical Tanks (Hydrogen/Nitrogen) Foundation - (Lease Agreement This Week)
+
+    Activity ID  140560 |  DEC30  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-11 17:00:00   | Activity Name |  Ammonia Tank Design - Decision (Lease Agreement/PO Issue) This Week
+
+WBS: ARCHITECTURAL DESIGN - KSS
+
+WBS: DESIGN
+
+WBS: PROCUREMENT
+
+WBS: CONSTRUCTION
+
+WBS: HGA Design Status Follow up
+
+WBS: Non-Engineering Document
+
+    Activity ID  140566 |  A1070  | driving_path_flag |  N  | Pred |  Start Date: 2023-04-27 00:00:00 | End Date: 2023-08-07 17:00:00   | Activity Name |  Complete Hazmat Details (Form No: CE-1120) (GEO)
+
+    Activity ID  140565 |  A1060  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-31 00:00:00 | End Date: 2023-08-07 17:00:00   | Activity Name |  Stormwater Information Form (GEO)
+
+    Activity ID  140567 |  A1080  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-14 17:00:00   | Activity Name |  To be added
+
+WBS: Design Development
+
+    Activity ID  140608 |  KSS.01340  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-23 08:00:00 | End Date: 2023-06-19 17:00:00   | Activity Name |  Development of Reflected Ceiling Plan & Preliminary Lighting Layout
+
+    Activity ID  140609 |  KSS.01430  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-26 08:00:00 | End Date: 2023-06-06 16:00:00   | Activity Name |  Schematic Building Sections
+
+    Activity ID  140610 |  KSS.01440  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-26 08:00:00 | End Date: 2023-06-06 16:00:00   | Activity Name |  Typical Wall Sections
+
+        PRED | ACTIVITY ID KSS.01430 | ACTIVITY NAME Schematic Building Sections | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140611 |  KSS.01490  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-08 08:00:00 | End Date: 2023-06-21 17:00:00   | Activity Name |  Detailed Coordination of Building Services with HGA
+
+        PRED | ACTIVITY ID KSS.01440 | ACTIVITY NAME Typical Wall Sections | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140614 |  KSS.01800  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-08 08:00:00 | End Date: 2023-06-21 17:00:00   | Activity Name |  Expanded Building Code Analysis
+
+        PRED | ACTIVITY ID KSS.01490 | ACTIVITY NAME Detailed Coordination of Building Services with HGA | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140615 |  KSS.01900  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-08 08:00:00 | End Date: 2023-06-21 17:00:00   | Activity Name |  Code Review Sheet Incl Expanded Bldg Code Analysis & Initial Egress Plan (KSS & TERP)
+
+        PRED | ACTIVITY ID KSS.01490 | ACTIVITY NAME Detailed Coordination of Building Services with HGA | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID KSS.01800 | ACTIVITY NAME Expanded Building Code Analysis | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140616 |  KSS.02000  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-08 08:00:00 | End Date: 2023-06-21 17:00:00   | Activity Name |  DD Demolition Plans - CONFIRM IF REQUIRED
+
+        PRED | ACTIVITY ID KSS.01900 | ACTIVITY NAME Code Review Sheet Incl Expanded Bldg Code Analysis & Initial Egress Plan (KSS & TERP) | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140617 |  KSS.02010  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-08 08:00:00 | End Date: 2023-06-21 17:00:00   | Activity Name |  DD Roof Plan
+
+        PRED | ACTIVITY ID KSS.02000 | ACTIVITY NAME DD Demolition Plans - CONFIRM IF REQUIRED | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140618 |  KSS.02020  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-08 08:00:00 | End Date: 2023-06-21 17:00:00   | Activity Name |  DD Exterior Elevations
+
+        PRED | ACTIVITY ID KSS.02010 | ACTIVITY NAME DD Roof Plan | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140621 |  KSS.02050  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-08 08:00:00 | End Date: 2023-06-21 17:00:00   | Activity Name |  DD Finish Schedule
+
+        PRED | ACTIVITY ID KSS.02020 | ACTIVITY NAME DD Exterior Elevations | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140633 |  KSS.02660  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-08 08:00:00 | End Date: 2023-06-21 17:00:00   | Activity Name |  DD Floor Plans
+
+        PRED | ACTIVITY ID KSS.02050 | ACTIVITY NAME DD Finish Schedule | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140612 |  KSS.01500  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-22 08:00:00 | End Date: 2023-07-12 17:00:00   | Activity Name |  Development of Exterior Envelope Upgrades
+
+        PRED | ACTIVITY ID KSS.01490 | ACTIVITY NAME Detailed Coordination of Building Services with HGA | RELATION TYPE PR_FS | LAG -8.0
+
+    Activity ID  140619 |  KSS.02030  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-22 08:00:00 | End Date: 2023-07-12 17:00:00   | Activity Name |  DD Building Sections
+
+        PRED | ACTIVITY ID KSS.01500 | ACTIVITY NAME Development of Exterior Envelope Upgrades | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140620 |  KSS.02040  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-22 08:00:00 | End Date: 2023-07-12 17:00:00   | Activity Name |  DD Wall Sections
+
+        PRED | ACTIVITY ID KSS.02030 | ACTIVITY NAME DD Building Sections | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140613 |  KSS.01600  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-21 17:00:00   | Activity Name |  Publication of Design Development Documentation
+
+        PRED | ACTIVITY ID KSS.01500 | ACTIVITY NAME Development of Exterior Envelope Upgrades | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID KSS.02040 | ACTIVITY NAME DD Wall Sections | RELATION TYPE PR_FF | LAG 0.0
+
+WBS: Construction Document
+
+    Activity ID  140622 |  KSS.02070  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Demolition Plans as Required -CONFIRM IF REQUIRED
+
+        PRED | ACTIVITY ID KSS.01600 | ACTIVITY NAME Publication of Design Development Documentation | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140623 |  KSS.02080  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Dimensioned & Tagged Floor Plans
+
+        PRED | ACTIVITY ID KSS.02070 | ACTIVITY NAME Demolition Plans as Required -CONFIRM IF REQUIRED | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID KSS.01600 | ACTIVITY NAME Publication of Design Development Documentation | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140624 |  KSS.02090  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Reflected Ceiling Plans
+
+        PRED | ACTIVITY ID KSS.02080 | ACTIVITY NAME Dimensioned & Tagged Floor Plans | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID KSS.01600 | ACTIVITY NAME Publication of Design Development Documentation | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140625 |  KSS.02310  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Sections and Details
+
+        PRED | ACTIVITY ID KSS.02090 | ACTIVITY NAME Reflected Ceiling Plans | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140626 |  KSS.02320  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Equipment Layout Plans
+
+        PRED | ACTIVITY ID KSS.02310 | ACTIVITY NAME Sections and Details | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140627 |  KSS.02330  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Finishes Plan & Schedule
+
+        PRED | ACTIVITY ID KSS.02320 | ACTIVITY NAME Equipment Layout Plans | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140628 |  KSS.02340  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Door Schedule
+
+        PRED | ACTIVITY ID KSS.02330 | ACTIVITY NAME Finishes Plan & Schedule | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140629 |  KSS.02350  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Interior Elevations
+
+        PRED | ACTIVITY ID KSS.02340 | ACTIVITY NAME Door Schedule | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140630 |  KSS.02360  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Architectural/Millwork Details
+
+        PRED | ACTIVITY ID KSS.02350 | ACTIVITY NAME Interior Elevations | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140631 |  KSS.02370  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Material & Technical Specifications
+
+        PRED | ACTIVITY ID KSS.02360 | ACTIVITY NAME Architectural/Millwork Details | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140632 |  KSS.02380  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-22 08:00:00 | End Date: 2023-09-22 17:00:00   | Activity Name |  Review 90% Documentation with Amogy & HGA
+
+        PRED | ACTIVITY ID KSS.02370 | ACTIVITY NAME Material & Technical Specifications | RELATION TYPE PR_SS | LAG 192.0
+
+WBS: Process
+
+    Activity ID  140637 |  DE.P.1060  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-19 08:00:00 | End Date: 2023-06-30 17:00:00   | Activity Name |  Waste Summary Report
+
+        PRED | ACTIVITY ID DEP-110A | ACTIVITY NAME Process Flow Diagram - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-120A | ACTIVITY NAME P&IDs - Develop/IFR | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-140A | ACTIVITY NAME Utility Consumption List - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-110E | ACTIVITY NAME Process Flow Diagram - IFD/IFC | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Mechanical and Piping
+
+    Activity ID  140568 |  DE.MP1080  | driving_path_flag |  N  | Pred |  Start Date: 2023-04-17 07:30:00 | End Date: 2023-04-12 12:00:00   | Activity Name |  Pipe Specifications
+
+        PRED | ACTIVITY ID DE.MP1060 | ACTIVITY NAME Pipe Support Details | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140570 |  DE.MP1000  | driving_path_flag |  N  | Pred |  Start Date: 2023-04-17 08:00:00 | End Date: 2023-05-26 17:00:00   | Activity Name |  Pipe & Valve Specifications
+
+    Activity ID  140569 |  DE.MP1010  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-15 07:30:00 | End Date: 2023-08-29 10:00:00   | Activity Name |  Line List
+
+        PRED | ACTIVITY ID DE.MP1080 | ACTIVITY NAME Pipe Specifications | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-120A | ACTIVITY NAME P&IDs - Develop/IFR | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140466 |  DE.MP1040  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-01 08:00:00 | End Date: 2023-08-31 17:00:00   | Activity Name |  Fire Protection Plans and Details
+
+        PRED | ACTIVITY ID DE.MP1030 | ACTIVITY NAME HVAC duct routing plans | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140606 |  DE.MP1090  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  Bill of Materials/ MTO
+
+        PRED | ACTIVITY ID DE.MP1080 | ACTIVITY NAME Pipe Specifications | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140445 |  DE.MP1060  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-01 08:00:00 | End Date: 2023-10-11 12:00:00   | Activity Name |  Pipe Support Details
+
+        PRED | ACTIVITY ID DE.MP1040 | ACTIVITY NAME Fire Protection Plans and Details | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140446 |  DE.MP1070  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-01 08:00:00 | End Date: 2023-10-12 08:30:00   | Activity Name |  Pipe Stress Analysis/ Calculations
+
+        PRED | ACTIVITY ID DE.MP1000 | ACTIVITY NAME Pipe & Valve Specifications | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.MP1060 | ACTIVITY NAME Pipe Support Details | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140464 |  DE.MP1020  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-10-04 17:00:00   | Activity Name |  HVAC equipment location plans
+
+        PRED | ACTIVITY ID DEP-110A | ACTIVITY NAME Process Flow Diagram - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140465 |  DE.MP1030  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-10-04 17:00:00   | Activity Name |  HVAC duct routing plans
+
+        PRED | ACTIVITY ID DE.MP1020 | ACTIVITY NAME HVAC equipment location plans | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140467 |  DE.MP1050  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-05 08:00:00 | End Date: 2023-09-21 17:00:00   | Activity Name |  Orthos (Plan and Section drawings)
+
+        PRED | ACTIVITY ID DE.MP1010 | ACTIVITY NAME Line List | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.MP1000 | ACTIVITY NAME Pipe & Valve Specifications | RELATION TYPE PR_FF | LAG 40.0
+
+    Activity ID  140450 |  DE.MP1100  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-10-16 17:00:00   | Activity Name |  Mechanical Equipment IFC
+
+        PRED | ACTIVITY ID DE.MP1090 | ACTIVITY NAME Bill of Materials/ MTO | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID DEMP-130E | ACTIVITY NAME Piping Isometrics - IFD/IFC | RELATION TYPE PR_SS | LAG 0.0
+
+WBS: CSA (Civil, Structural, Architectural)
+
+    Activity ID  140470 |  DE.C-1010  | driving_path_flag |  N  | Pred |  Start Date: 2023-03-13 08:00:00 | End Date: 2023-08-18 17:00:00   | Activity Name |  Plumbing and drainage drawings
+
+    Activity ID  140463 |  DE.C-1040  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-01 00:00:00 | End Date: 2023-08-23 17:00:00   | Activity Name |  Sewer and Drainage IFC
+
+WBS: Electrical
+
+    Activity ID  140475 |  DE.E-1004  | driving_path_flag |  N  | Pred |  Start Date: 2023-04-19 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  Load / Motor List; Load Analysis
+
+        PRED | ACTIVITY ID DE.E-1003 | ACTIVITY NAME Electrical Riser Diagrams | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID PO_M0290 | ACTIVITY NAME Z-001 Compressed Air Package | RELATION TYPE PR_SS | LAG 16.0
+
+    Activity ID  140451 |  DE.E-1011  | driving_path_flag |  N  | Pred |  Start Date: 2023-04-20 08:00:00 | End Date: 2023-09-14 17:00:00   | Activity Name |  Infrastructure Electrical IFC
+
+        PRED | ACTIVITY ID DE.E-1010 | ACTIVITY NAME Installation Details | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140520 |  DE.E-1110  | driving_path_flag |  N  | Pred |  Start Date: 2023-04-20 08:01:00 | End Date: 2023-09-21 17:00:00   | Activity Name |  Remaining Scope Electrical IFC
+
+        PRED | ACTIVITY ID DE.E-1011 | ACTIVITY NAME Infrastructure Electrical IFC | RELATION TYPE PR_FF | LAG 40.0
+
+    Activity ID  140473 |  DE.E-1002  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-05 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  Major Equipment Specs / Datasheets
+
+    Activity ID  140476 |  DE.E-1005  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-24 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  Hazardous Area Classification Drawings
+
+        PRED | ACTIVITY ID DE.E-1004 | ACTIVITY NAME Load / Motor List; Load Analysis | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140477 |  DE.E-1006  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-24 08:00:00 | End Date: 2023-09-04 17:00:00   | Activity Name |  Power and Grounding Plans
+
+        PRED | ACTIVITY ID DE.E-1005 | ACTIVITY NAME Hazardous Area Classification Drawings | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140474 |  DE.E-1003  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-01 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  Electrical Riser Diagrams
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140695 |  DE.E-1001  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-01 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  One Line Diagram
+
+    Activity ID  140478 |  DE.E-1007  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-14 17:00:00   | Activity Name |  Outdoor lighting plans
+
+        PRED | ACTIVITY ID DE.E-1006 | ACTIVITY NAME Power and Grounding Plans | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140479 |  DE.E-1008  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-14 17:00:00   | Activity Name |  Cable and Conduit schedule
+
+        PRED | ACTIVITY ID DE.E-1007 | ACTIVITY NAME Outdoor lighting plans | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140604 |  DE.E-1120  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Low Voltage: Fire Alarm, CCTV, Broadcasting, Door Access System
+
+        PRED | ACTIVITY ID DE.E-1004 | ACTIVITY NAME Load / Motor List; Load Analysis | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140605 |  DE.E-1130  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Bill of Materials/ MTOs
+
+        PRED | ACTIVITY ID DE.E-1004 | ACTIVITY NAME Load / Motor List; Load Analysis | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140480 |  DE.E-1009  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  Panel and Junction Box schedules / wiring diagrams
+
+        PRED | ACTIVITY ID DE.E-1008 | ACTIVITY NAME Cable and Conduit schedule | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID KSS.01340 | ACTIVITY NAME Development of Reflected Ceiling Plan & Preliminary Lighting Layout | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140481 |  DE.E-1010  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 11:00:00 | End Date: 2023-10-11 11:00:00   | Activity Name |  Installation Details
+
+        PRED | ACTIVITY ID DE.E-1009 | ACTIVITY NAME Panel and Junction Box schedules / wiring diagrams | RELATION TYPE PR_FF | LAG 0.0
+
+WBS: Instrumentation and Controls
+
+    Activity ID  140452 |  DE.I-1000  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-01 00:00:00 | End Date: 2023-09-29 17:00:00   | Activity Name |  Instrument IFC
+
+        PRED | ACTIVITY ID DE.I-1070 | ACTIVITY NAME Installation Details | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140482 |  DE.I-1010  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-10-05 17:00:00   | Activity Name |  Networking Diagram
+
+    Activity ID  140483 |  DE.I-1020  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-10-05 17:00:00   | Activity Name |  Instrument Index
+
+        PRED | ACTIVITY ID DE.I-1010 | ACTIVITY NAME Networking Diagram | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140484 |  DE.I-1030  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  I/O List
+
+        PRED | ACTIVITY ID DE.I-1020 | ACTIVITY NAME Instrument Index | RELATION TYPE PR_FS | LAG -80.0
+
+    Activity ID  140485 |  DE.I-1040  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Instrument Datasheets / Cutsheets
+
+        PRED | ACTIVITY ID DE.I-1030 | ACTIVITY NAME I/O List | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140486 |  DE.I-1050  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-11 08:00:00 | End Date: 2023-09-22 17:00:00   | Activity Name |  Cable and Conduit schedule
+
+        PRED | ACTIVITY ID DE.I-1040 | ACTIVITY NAME Instrument Datasheets / Cutsheets | RELATION TYPE PR_FS | LAG -40.0
+
+    Activity ID  140487 |  DE.I-1060  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-11 08:00:00 | End Date: 2023-09-22 17:00:00   | Activity Name |  Panel and Junction Box schedules / wiring diagrams
+
+        PRED | ACTIVITY ID DE.I-1050 | ACTIVITY NAME Cable and Conduit schedule | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140488 |  DE.I-1070  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-11 08:00:00 | End Date: 2023-09-29 17:00:00   | Activity Name |  Installation Details
+
+        PRED | ACTIVITY ID DE.I-1060 | ACTIVITY NAME Panel and Junction Box schedules / wiring diagrams | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140607 |  DE.I-1080  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-11 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Bill of Materials/ MTOs
+
+        PRED | ACTIVITY ID DE.I-1070 | ACTIVITY NAME Installation Details | RELATION TYPE PR_SS | LAG 0.0
+
+WBS: Project Deliverables
+
+    Activity ID  140489 |  DE.D-1000  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  3D Scan
+
+    Activity ID  140490 |  DE.D-1010  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Control Narrative
+
+        PRED | ACTIVITY ID DE.D-1000 | ACTIVITY NAME 3D Scan | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140492 |  DE.D-1020  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-11 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  3D Model
+
+        PRED | ACTIVITY ID DE.D-1030 | ACTIVITY NAME PLC Configuration | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140491 |  DE.D-1030  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-28 17:00:00   | Activity Name |  PLC Configuration
+
+        PRED | ACTIVITY ID DE.D-1010 | ACTIVITY NAME Control Narrative | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140493 |  DE.D-1040  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-22 08:00:00 | End Date: 2023-10-12 17:00:00   | Activity Name |  As-Built drawings
+
+        PRED | ACTIVITY ID DE.D-1020 | ACTIVITY NAME 3D Model | RELATION TYPE PR_FS | LAG -40.0
+
+WBS: Placement of Orders
+
+WBS: Vendor Acknowledgement & Material Delivery
+
+WBS: Early Works
+
+    Activity ID  140504 |  CM-1000  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-10-03 17:00:00   | Activity Name |  Mobilization
+
+        PRED | ACTIVITY ID PEM-010 | ACTIVITY NAME Phase 0 - TCEQ | RELATION TYPE PR_FS | LAG 80.0
+
+    Activity ID  140495 |  CM-1010  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-26 08:00:00 | End Date: 2023-11-08 17:00:00   | Activity Name |  Demolition of the Wall and structure support
+
+        PRED | ACTIVITY ID PEM-030 | ACTIVITY NAME Phase 2 - Demolition Permit | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DE.C-1050 | ACTIVITY NAME Structural Steel IFC | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID CM-1000 | ACTIVITY NAME Mobilization | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140511 |  A1050  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-26 08:00:00 | End Date: 2023-11-22 17:00:00   | Activity Name |  Drainage & Sewer Construction
+
+        PRED | ACTIVITY ID PEM-020 | ACTIVITY NAME Phase 1 - Sewer and Drainage Permit | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: 3 Test Rooms and Infrastructure
+
+    Activity ID  140456 |  CM-1020  | driving_path_flag |  Y  | Pred |  Start Date: 2023-12-22 08:30:00 | End Date: 2024-01-19 08:30:00   | Activity Name |  Foundation start
+
+        PRED | ACTIVITY ID PEM-010 | ACTIVITY NAME Phase 0 - TCEQ | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID PEM-040 | ACTIVITY NAME Phase 3 - Foundation Permit for Equipment | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID A1050 | ACTIVITY NAME Drainage & Sewer Construction | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F370 | ACTIVITY NAME Civil - Bulks Materials - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F390 | ACTIVITY NAME Electrical - Bulks Materials - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140457 |  CM-1030  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-29 08:00:00 | End Date: 2024-02-16 17:00:00   | Activity Name |  Three Rooms Architect Construction
+
+        PRED | ACTIVITY ID PEM-050 | ACTIVITY NAME Phase 4 - Infrastructure and 3 Test Room Build Out Permit | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F370 | ACTIVITY NAME Civil - Bulks Materials - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140458 |  CM-1040  | driving_path_flag |  N  | Pred |  Start Date: 2024-01-05 08:30:00 | End Date: 2024-02-09 08:30:00   | Activity Name |  Mechanical Equipment Installation
+
+        PRED | ACTIVITY ID CM-1020 | ACTIVITY NAME Foundation start | RELATION TYPE PR_SS | LAG 80.0
+
+        PRED | ACTIVITY ID V_M0120A | ACTIVITY NAME P-004A/B Cooling Water Pump A/B - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0150 | ACTIVITY NAME Delivery of OEM and Operating Manuals (Phase 4 Permit) - M&E | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0120F | ACTIVITY NAME P-004A/B Cooling Water Pump A/B - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0140F | ACTIVITY NAME Hydrogen/ Nitrogen/ Ammonia Storage Tank - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0130F | ACTIVITY NAME Process Vent Stacks - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0130F10 | ACTIVITY NAME Combustion Vent Stack - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0130F20 | ACTIVITY NAME E-005 Cooling Tower - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F | ACTIVITY NAME R-001 Selective Catalytic Reactor - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0110F | ACTIVITY NAME HVAC System - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F20 | ACTIVITY NAME Gas Detection Systems - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F30 | ACTIVITY NAME T-002 Cooling Tower Water Tank - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F40 | ACTIVITY NAME P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F50 | ACTIVITY NAME P-005 Biocide Metering Pump - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F60 | ACTIVITY NAME T-003 Biocide Tote - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F70 | ACTIVITY NAME Z-003 Water Treatment - Water Softener - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F80 | ACTIVITY NAME S-001 Ammonia Scrubber - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F90 | ACTIVITY NAME Z-004 Water Treatment - Continous De-Ionization Package - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F100 | ACTIVITY NAME Boiler Package - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F110 | ACTIVITY NAME Ventilation Blowers - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F120 | ACTIVITY NAME Pumps - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F130 | ACTIVITY NAME Centrifugal Pumps - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F140 | ACTIVITY NAME Pipes & Fittings - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F150 | ACTIVITY NAME Small Bore Valves - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F160 | ACTIVITY NAME V-010 Separator (Included in Ammonia Scrubber Package) - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F170 | ACTIVITY NAME Sulfuric Acid Tank (Included in Ammonia Scrubber Package) - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F180 | ACTIVITY NAME E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F190 | ACTIVITY NAME Z-001 Compressed Air Package - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F200 | ACTIVITY NAME V-006 Knock-Out Drum (Included in Compressed Air Package) - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F210 | ACTIVITY NAME Z-002 Dessicant Drier Package (Included in Compressed Air Package) - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F220 | ACTIVITY NAME V-009 Air Receiver (Included in Compressor Air Package) - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F380 | ACTIVITY NAME Mechanical/Piping - Bulks Materials - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140459 |  CM-1050  | driving_path_flag |  N  | Pred |  Start Date: 2024-01-12 08:30:00 | End Date: 2024-02-16 08:30:00   | Activity Name |  Piping
+
+        PRED | ACTIVITY ID PEM-060 | ACTIVITY NAME Phase 5 - Building Permit (Remaining Scope) | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID CM-1040 | ACTIVITY NAME Mechanical Equipment Installation | RELATION TYPE PR_FF | LAG 40.0
+
+        PRED | ACTIVITY ID V_M100F380 | ACTIVITY NAME Mechanical/Piping - Bulks Materials - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140460 |  CM-1070  | driving_path_flag |  N  | Pred |  Start Date: 2024-01-19 08:30:00 | End Date: 2024-02-23 08:30:00   | Activity Name |  Electrical
+
+        PRED | ACTIVITY ID PEM-060 | ACTIVITY NAME Phase 5 - Building Permit (Remaining Scope) | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID CM-1040 | ACTIVITY NAME Mechanical Equipment Installation | RELATION TYPE PR_FF | LAG 80.0
+
+        PRED | ACTIVITY ID V_M100F280 | ACTIVITY NAME E-001 LV-MCCs - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F290 | ACTIVITY NAME E-002 LV Switchboard- Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F310 | ACTIVITY NAME E-005 LV-Motor Starters - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F300 | ACTIVITY NAME E-021 Pad Mounted Transformers - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F320 | ACTIVITY NAME E-034 Load Bank - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F330 | ACTIVITY NAME E-041 Distribution Panelboards - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F340 | ACTIVITY NAME E-042 Dry-Type Transformers - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F350 | ACTIVITY NAME E-045 Lighting Panelboards - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F360 | ACTIVITY NAME E-053 DC Power Supplies - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F390 | ACTIVITY NAME Electrical - Bulks Materials - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F390 | ACTIVITY NAME Electrical - Bulks Materials - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140494 |  CM-1080  | driving_path_flag |  N  | Pred |  Start Date: 2024-01-26 08:30:00 | End Date: 2024-02-22 08:30:00   | Activity Name |  Instrument & Control
+
+        PRED | ACTIVITY ID CM-1050 | ACTIVITY NAME Piping | RELATION TYPE PR_SS | LAG 80.0
+
+        PRED | ACTIVITY ID V_M100F230 | ACTIVITY NAME Flow Instruments - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F240 | ACTIVITY NAME Control Valves - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F250 | ACTIVITY NAME Pressure Instruments - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F260 | ACTIVITY NAME Temperature Instruments - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F270 | ACTIVITY NAME Control Systems - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F400 | ACTIVITY NAME Cable Trays - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F410 | ACTIVITY NAME Electrical Cables - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100F400 | ACTIVITY NAME Cable Trays - Delivery/ Material Inspection/ SAT | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140496 |  CM-1090  | driving_path_flag |  N  | Pred |  Start Date: 2024-01-31 08:30:00 | End Date: 2024-03-07 08:30:00   | Activity Name |  Commissioing
+
+        PRED | ACTIVITY ID CM-1080 | ACTIVITY NAME Instrument & Control | RELATION TYPE PR_FS | LAG -128.0
+
+WBS: Remaining Scopes
+
+    Activity ID  140517 |  CM-1100  | driving_path_flag |  Y  | Pred |  Start Date: 2024-02-23 08:30:00 | End Date: 2024-04-05 08:30:00   | Activity Name |  Architectural Works
+
+        PRED | ACTIVITY ID PEM-060 | ACTIVITY NAME Phase 5 - Building Permit (Remaining Scope) | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID CM-1030 | ACTIVITY NAME Three Rooms Architect Construction | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID CM-1020 | ACTIVITY NAME Foundation start | RELATION TYPE PR_FS | LAG 200.0
+
+    Activity ID  140518 |  CM-1110  | driving_path_flag |  Y  | Pred |  Start Date: 2024-03-27 08:30:00 | End Date: 2024-05-08 08:30:00   | Activity Name |  Electrical - Remaining Scopes
+
+        PRED | ACTIVITY ID CM-1100 | ACTIVITY NAME Architectural Works | RELATION TYPE PR_SS | LAG 184.0
+
+    Activity ID  140522 |  CM-1120  | driving_path_flag |  Y  | Pred |  Start Date: 2024-03-27 08:30:00 | End Date: 2024-05-08 08:30:00   | Activity Name |  Mechanical - Remaining Scopes
+
+        PRED | ACTIVITY ID CM-1110 | ACTIVITY NAME Electrical - Remaining Scopes | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140523 |  CM-1130  | driving_path_flag |  Y  | Pred |  Start Date: 2024-03-27 08:30:00 | End Date: 2024-05-08 08:30:00   | Activity Name |  Instrumentation - Remaining Scopes
+
+        PRED | ACTIVITY ID CM-1120 | ACTIVITY NAME Mechanical - Remaining Scopes | RELATION TYPE PR_SS | LAG 0.0
+
+WBS: Material & Energy Balances
+
+    Activity ID  140657 |  DEP-100A  | driving_path_flag |  N  | Pred |  Start Date: 2023-03-20 08:00:00 | End Date: 2023-08-18 17:00:00   | Activity Name |  Material & Energy Balances - Develop
+
+    Activity ID  140658 |  DEP-100B  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-09-04 17:00:00   | Activity Name |  Material & Energy Balances - IFA
+
+        PRED | ACTIVITY ID DEP-100A | ACTIVITY NAME Material & Energy Balances - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-100A | ACTIVITY NAME Material & Energy Balances - Develop | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140659 |  DEP-100C  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-05 08:00:00 | End Date: 2023-09-11 17:00:00   | Activity Name |  Material & Energy Balances - Client Review/Approval
+
+        PRED | ACTIVITY ID DEP-100B | ACTIVITY NAME Material & Energy Balances - IFA | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140660 |  DEP-100D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-25 17:00:00   | Activity Name |  Material & Energy Balances - Update Client Comments
+
+        PRED | ACTIVITY ID DEP-100C | ACTIVITY NAME Material & Energy Balances - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140661 |  DEP-100E  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-26 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  Material & Energy Balances - IFD/IFC
+
+        PRED | ACTIVITY ID DEP-100D | ACTIVITY NAME Material & Energy Balances - Update Client Comments | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Process Flow Diagram
+
+    Activity ID  140662 |  DEP-110A  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-01 17:00:00   | Activity Name |  Process Flow Diagram - Develop
+
+    Activity ID  140663 |  DEP-110B  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-09-04 17:00:00   | Activity Name |  Process Flow Diagram - IFA
+
+        PRED | ACTIVITY ID DEP-110A | ACTIVITY NAME Process Flow Diagram - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-110A | ACTIVITY NAME Process Flow Diagram - Develop | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140664 |  DEP-110C  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-05 08:00:00 | End Date: 2023-09-11 17:00:00   | Activity Name |  Process Flow Diagram - Client Review/Approval
+
+        PRED | ACTIVITY ID DEP-110B | ACTIVITY NAME Process Flow Diagram - IFA | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140665 |  DEP-110D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-25 17:00:00   | Activity Name |  Process Flow Diagram - Update Client Comments
+
+        PRED | ACTIVITY ID DEP-110C | ACTIVITY NAME Process Flow Diagram - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140666 |  DEP-110E  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-26 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  Process Flow Diagram - IFD/IFC
+
+        PRED | ACTIVITY ID DEP-110D | ACTIVITY NAME Process Flow Diagram - Update Client Comments | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: P&IDs
+
+    Activity ID  140650 |  DEP-120A  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-01 08:00:00 | End Date: 2023-06-16 17:00:00   | Activity Name |  P&IDs - Develop/IFR
+
+    Activity ID  140653 |  DEP-120E  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-20 08:00:00 | End Date: 2023-06-30 17:00:00   | Activity Name |  P&IDs - Client Review/Approval
+
+        PRED | ACTIVITY ID DEP-120A | ACTIVITY NAME P&IDs - Develop/IFR | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140656 |  DEP-120F  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-03 08:00:00 | End Date: 2023-07-17 17:00:00   | Activity Name |  P&IDs - Update P&IDs per Client Comments
+
+        PRED | ACTIVITY ID DEP-120E | ACTIVITY NAME P&IDs - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140651 |  DEP-120B  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-18 08:00:00 | End Date: 2023-07-20 17:00:00   | Activity Name |  P& IDs - IFH (Issued for HAZOP)
+
+        PRED | ACTIVITY ID DEP-120E | ACTIVITY NAME P&IDs - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-120F | ACTIVITY NAME P&IDs - Update P&IDs per Client Comments | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140655 |  DEP-120C  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-30 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  HAZOP
+
+        PRED | ACTIVITY ID DEP-120B | ACTIVITY NAME P& IDs - IFH (Issued for HAZOP) | RELATION TYPE PR_FS | LAG 40.0
+
+        PRED | ACTIVITY ID DEP-120A | ACTIVITY NAME P&IDs - Develop/IFR | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140654 |  DEP-120D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  P& IDs - IFD (Issued for Design)
+
+        PRED | ACTIVITY ID DEP-120C | ACTIVITY NAME HAZOP | RELATION TYPE PR_FS | LAG 40.0
+
+{'%R': '%R',
+ 'act_end_date': None,
+ 'act_equip_qty': 0.0,
+ 'act_start_date': None,
+ 'act_this_per_equip_qty': 0.0,
+ 'act_this_per_work_qty': 0.0,
+ 'act_work_qty': 0.0,
+ 'auto_compute_act_flag': 'N',
+ 'clndr_id': 6726,
+ 'complete_pct_type': 'CP_Drtn',
+ 'create_date': '2023-08-23 07:09',
+ 'create_user': 'NotPrmUser',
+ 'cstr_date': None,
+ 'cstr_date2': None,
+ 'cstr_type': None,
+ 'cstr_type2': None,
+ 'driving_path_flag': 'N',
+ 'duration_type': 'DT_FixedDUR2',
+ 'early_end_date': '2023-10-06 17:00',
+ 'early_start_date': '2023-09-18 08:00',
+ 'est_wt': 1.0,
+ 'expect_end_date': None,
+ 'external_early_start_date': None,
+ 'external_late_end_date': None,
+ 'free_float_hr_cnt': 0.0,
+ 'guid': 'nzFKUpZO0kSU8VJkauZSRw',
+ 'int_path': None,
+ 'int_path_order': None,
+ 'late_end_date': '2024-03-29 17:00',
+ 'late_start_date': '2024-03-11 08:00',
+ 'location_id': None,
+ 'lock_plan_flag': 'N',
+ 'phys_complete_pct': 0.0,
+ 'priority_type': 'PT_Normal',
+ 'proj_id': 5866,
+ 'reend_date': '2023-10-06 17:00',
+ 'rem_late_end_date': '2024-03-29 17:00',
+ 'rem_late_start_date': '2024-03-11 08:00',
+ 'remain_drtn_hr_cnt': 120.0,
+ 'remain_equip_qty': 0.0,
+ 'remain_work_qty': 0.0,
+ 'restart_date': '2023-09-18 08:00',
+ 'resume_date': None,
+ 'rev_fdbk_flag': 'N',
+ 'rsrc_id': None,
+ 'status_code': 'TK_NotStart',
+ 'suspend_date': None,
+ 'target_drtn_hr_cnt': 8.0,
+ 'target_end_date': '2023-09-18 17:00',
+ 'target_equip_qty': 0.0,
+ 'target_start_date': '2023-09-18 08:00',
+ 'target_work_qty': 0.0,
+ 'task_code': 'DEP-120G',
+ 'task_id': 140652,
+ 'task_name': 'P& IDs - IFC (Issue for Construction)',
+ 'task_type': 'TT_Task',
+ 'tmpl_guid': 'cfXo8S6xQUO9XXI5WYoU7g',
+ 'total_float_hr_cnt': 1000.0,
+ 'update_date': '2023-08-23 08:16',
+ 'update_user': 'NotPrmUser',
+ 'wbs_id': 34216}
+    Activity ID  140652 |  DEP-120G  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  P& IDs - IFC (Issue for Construction)
+
+        PRED | ACTIVITY ID DEP-120D | ACTIVITY NAME P& IDs - IFD (Issued for Design) | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Line and Equipment Sizing Calculations
+
+    Activity ID  140634 |  DEP-130A  | driving_path_flag |  N  | Pred |  Start Date: 2023-04-24 08:00:00 | End Date: 2023-05-12 17:00:00   | Activity Name |  Line Sizing & Equipment Calculations - Develop
+
+        PRED | ACTIVITY ID DEP-120A | ACTIVITY NAME P&IDs - Develop/IFR | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140642 |  DEP-130B  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-01 08:00:00 | End Date: 2023-09-01 17:00:00   | Activity Name |  Line Sizing & Equipment Calculation - IFA
+
+        PRED | ACTIVITY ID DEP-130A | ACTIVITY NAME Line Sizing & Equipment Calculations - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140643 |  DEP-130C  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-09-08 17:00:00   | Activity Name |  Line Sizing & Equipment Calculation - Client Review/Approval
+
+        PRED | ACTIVITY ID DEP-130B | ACTIVITY NAME Line Sizing & Equipment Calculation - IFA | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140644 |  DEP-130D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-22 17:00:00   | Activity Name |  Line Sizing & Equipment Calculation - Update Client Comments
+
+        PRED | ACTIVITY ID DEP-130C | ACTIVITY NAME Line Sizing & Equipment Calculation - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140645 |  DEP-130E  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-09 08:00:00 | End Date: 2023-10-09 17:00:00   | Activity Name |  Line Sizing & Equipment Calculation - IFD/IFC
+
+        PRED | ACTIVITY ID DEP-130D | ACTIVITY NAME Line Sizing & Equipment Calculation - Update Client Comments | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-120G | ACTIVITY NAME P& IDs - IFC (Issue for Construction) | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Utility Consumption List
+
+    Activity ID  140636 |  DEP-140A  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-27 08:00:00 | End Date: 2023-10-10 17:00:00   | Activity Name |  Utility Consumption List - Develop
+
+        PRED | ACTIVITY ID DEP-150A | ACTIVITY NAME HAZID Facilitation & Reports - Develop | RELATION TYPE PR_FS | LAG 40.0
+
+        PRED | ACTIVITY ID DEP-110E | ACTIVITY NAME Process Flow Diagram - IFD/IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140638 |  DEP-140B  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-11 08:00:00 | End Date: 2023-10-11 17:00:00   | Activity Name |  Utility Consumption List - IFA
+
+        PRED | ACTIVITY ID DEP-140A | ACTIVITY NAME Utility Consumption List - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-140A | ACTIVITY NAME Utility Consumption List - Develop | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.P.1060 | ACTIVITY NAME Waste Summary Report | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140639 |  DEP-140C  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-12 08:00:00 | End Date: 2023-10-18 17:00:00   | Activity Name |  Utility Consumption List - Client Review/Approval
+
+        PRED | ACTIVITY ID DEP-140B | ACTIVITY NAME Utility Consumption List - IFA | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140640 |  DEP-140D  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-26 08:00:00 | End Date: 2023-11-01 17:00:00   | Activity Name |  Utility Consumption List - Update Client Comments
+
+        PRED | ACTIVITY ID DEP-140C | ACTIVITY NAME Utility Consumption List - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140641 |  DEP-140E  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-02 08:00:00 | End Date: 2023-11-02 17:00:00   | Activity Name |  Utility Consumption List- IFD/IFC
+
+        PRED | ACTIVITY ID DEP-140D | ACTIVITY NAME Utility Consumption List - Update Client Comments | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-120G | ACTIVITY NAME P& IDs - IFC (Issue for Construction) | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: HAZID Facilitation and Reports
+
+    Activity ID  140635 |  DEP-150A  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-21 08:00:00 | End Date: 2023-06-30 17:00:00   | Activity Name |  HAZID Facilitation & Reports - Develop
+
+        PRED | ACTIVITY ID DEP-110E | ACTIVITY NAME Process Flow Diagram - IFD/IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140646 |  DEP-150B  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-21 17:00:00   | Activity Name |  HAZID Facilitation & Reports - IFA
+
+        PRED | ACTIVITY ID DEP-150A | ACTIVITY NAME HAZID Facilitation & Reports - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140647 |  DEP-150C  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-22 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  HAZID Facilitation & Reports - Client Review/Approval
+
+        PRED | ACTIVITY ID DEP-150B | ACTIVITY NAME HAZID Facilitation & Reports - IFA | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140648 |  DEP-150D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-05 08:00:00 | End Date: 2023-09-11 17:00:00   | Activity Name |  HAZID Facilitation & Reports - Update Client Comments
+
+        PRED | ACTIVITY ID DEP-150C | ACTIVITY NAME HAZID Facilitation & Reports - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140649 |  DEP-150E  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-06 08:00:00 | End Date: 2023-10-06 17:00:00   | Activity Name |  HAZID Facilitation & Reports - IFD/IFC
+
+        PRED | ACTIVITY ID DEP-150D | ACTIVITY NAME HAZID Facilitation & Reports - Update Client Comments | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-120G | ACTIVITY NAME P& IDs - IFC (Issue for Construction) | RELATION TYPE PR_FF | LAG 0.0
+
+WBS: HAZOP Facilitation and Reports
+
+    Activity ID  140667 |  DEP-160A  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-21 08:00:00 | End Date: 2023-06-30 17:00:00   | Activity Name |  HAZOP Facilitation & Reports - Develop
+
+    Activity ID  140668 |  DEP-160B  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  HAZOP Facilitation & Reports - IFA
+
+        PRED | ACTIVITY ID DEP-160A | ACTIVITY NAME HAZOP Facilitation & Reports - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140669 |  DEP-160C  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-29 08:00:00 | End Date: 2023-09-04 17:00:00   | Activity Name |  HAZOP Facilitation & Reports - Client Review/Approval
+
+        PRED | ACTIVITY ID DEP-160B | ACTIVITY NAME HAZOP Facilitation & Reports - IFA | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140670 |  DEP-160D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-12 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  HAZOP Facilitation & Reports - Update Client Comments
+
+        PRED | ACTIVITY ID DEP-160C | ACTIVITY NAME HAZOP Facilitation & Reports - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140671 |  DEP-160E  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-06 08:00:00 | End Date: 2023-10-06 17:00:00   | Activity Name |  HAZOP Facilitation & Reports - IFD/IFC
+
+        PRED | ACTIVITY ID DEP-160D | ACTIVITY NAME HAZOP Facilitation & Reports - Update Client Comments | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-120G | ACTIVITY NAME P& IDs - IFC (Issue for Construction) | RELATION TYPE PR_FF | LAG 0.0
+
+WBS: Major Equipment Specs/Datasheets
+
+    Activity ID  140672 |  DEMP-100A  | driving_path_flag |  Y  | Pred |  Start Date: 2023-04-19 08:00:00 | End Date: 2023-06-12 17:00:00   | Activity Name |  Major Equipment Specs/Datasheets - Develop
+
+        PRED | ACTIVITY ID DEP-100A | ACTIVITY NAME Material & Energy Balances - Develop | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140673 |  DEMP-100B  | driving_path_flag |  Y  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  Major Equipment Specs/Datasheets - IFA
+
+        PRED | ACTIVITY ID DEMP-100A | ACTIVITY NAME Major Equipment Specs/Datasheets - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140674 |  DEMP-100C  | driving_path_flag |  Y  | Pred |  Start Date: 2023-08-29 08:00:00 | End Date: 2023-09-11 17:00:00   | Activity Name |  Major Equipment Specs/Datasheets - Client Review/Approval
+
+        PRED | ACTIVITY ID DEMP-100B | ACTIVITY NAME Major Equipment Specs/Datasheets - IFA | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140675 |  DEMP-100D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-12 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  Major Equipment Specs/Datasheets - Update Client Comments
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140676 |  DEMP-100E  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-19 17:00:00   | Activity Name |  Major Equipment Specs/Datasheets - IFC/IFD
+
+        PRED | ACTIVITY ID DEMP-100D | ACTIVITY NAME Major Equipment Specs/Datasheets - Update Client Comments | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Equipment Location Plan
+
+    Activity ID  140682 |  DEMP-110A  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-10 08:00:00 | End Date: 2023-08-15 17:00:00   | Activity Name |  Equipment Location Plan - Develop
+
+        PRED | ACTIVITY ID DE.MP1080 | ACTIVITY NAME Pipe Specifications | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DEP-120A | ACTIVITY NAME P&IDs - Develop/IFR | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140683 |  DEMP-110B  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-08 13:00:00 | End Date: 2023-09-11 12:00:00   | Activity Name |  Equipment Location Plan - IFA
+
+        PRED | ACTIVITY ID DEMP-110A | ACTIVITY NAME Equipment Location Plan - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140684 |  DEMP-110C  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-11 13:00:00 | End Date: 2023-09-25 12:00:00   | Activity Name |  Equipment Location Plan - Client Review/Approval
+
+        PRED | ACTIVITY ID DEMP-110B | ACTIVITY NAME Equipment Location Plan - IFA | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140685 |  DEMP-110D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-25 13:00:00 | End Date: 2023-10-02 12:00:00   | Activity Name |  Equipment Location Plan - Update Client Comments
+
+        PRED | ACTIVITY ID DEMP-110C | ACTIVITY NAME Equipment Location Plan - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140686 |  DEMP-110E  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-02 13:00:00 | End Date: 2023-10-03 12:00:00   | Activity Name |  Equipment Location Plan - IFD/IFC
+
+        PRED | ACTIVITY ID DEMP-110D | ACTIVITY NAME Equipment Location Plan - Update Client Comments | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Major Equipment List
+
+    Activity ID  140677 |  DEMP-120A  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-19 08:00:00 | End Date: 2023-06-30 17:00:00   | Activity Name |  Equipment List - Develop
+
+        PRED | ACTIVITY ID DEMP-100A | ACTIVITY NAME Major Equipment Specs/Datasheets - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140678 |  DEMP-120B  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  Equipment List - IFA
+
+        PRED | ACTIVITY ID DEMP-120A | ACTIVITY NAME Equipment List - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140679 |  DEMP-120C  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-29 08:00:00 | End Date: 2023-09-11 17:00:00   | Activity Name |  Equipment List - Client Review/Approval
+
+        PRED | ACTIVITY ID DEMP-120B | ACTIVITY NAME Equipment List - IFA | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140680 |  DEMP-120D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-12 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  Equipment List - Update Client Comments
+
+        PRED | ACTIVITY ID DEMP-120C | ACTIVITY NAME Equipment List - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140681 |  DEMP-120E  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-20 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Equipment List - IFD/IFC
+
+        PRED | ACTIVITY ID DEMP-120D | ACTIVITY NAME Equipment List - Update Client Comments | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID PO_ME100 | ACTIVITY NAME Combustion Vent Stack | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID PO_ME110 | ACTIVITY NAME E-005 Cooling Tower | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID PO_ME120 | ACTIVITY NAME P-004A/B Cooling Water Pump A/B | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID PO_ME130 | ACTIVITY NAME Process Vent Stack | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID PO_ME140 | ACTIVITY NAME Hydrogen/ Nitrogen/ Amonia Storage Tanks - Amogy | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID PO_ME150 | ACTIVITY NAME Delivery of OEM and Operating Manuals (Phase 4 Permit) - M&E | RELATION TYPE PR_SS | LAG 0.0
+
+WBS: Piping Isometrics
+
+    Activity ID  140687 |  DEMP-130A  | driving_path_flag |  N  | Pred |  Start Date: 2023-06-19 08:00:00 | End Date: 2023-06-30 17:00:00   | Activity Name |  Piping Isometrics - Develop
+
+        PRED | ACTIVITY ID DEP-120A | ACTIVITY NAME P&IDs - Develop/IFR | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140688 |  DEMP-130B  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  Piping Isometrics - IFA
+
+        PRED | ACTIVITY ID DEMP-130A | ACTIVITY NAME Piping Isometrics - Develop | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140689 |  DEMP-130C  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-29 08:00:00 | End Date: 2023-09-11 17:00:00   | Activity Name |  Piping Isometrics - Client Review/Approval
+
+        PRED | ACTIVITY ID DEMP-130B | ACTIVITY NAME Piping Isometrics - IFA | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140690 |  DEMP-130D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-12 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  Piping Isometrics - Update Client Comments
+
+        PRED | ACTIVITY ID DEMP-130C | ACTIVITY NAME Piping Isometrics - Client Review/Approval | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140691 |  DEMP-130E  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-19 17:00:00   | Activity Name |  Piping Isometrics - IFD/IFC
+
+        PRED | ACTIVITY ID DEMP-130D | ACTIVITY NAME Piping Isometrics - Update Client Comments | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Civil
+
+    Activity ID  140469 |  C.0100  | driving_path_flag |  N  | Pred |  Start Date: 2023-03-13 08:00:00 | End Date: 2023-08-21 17:00:00   | Activity Name |  Site Plot Plan
+
+    Activity ID  140471 |  C.0101  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-01 08:00:00 | End Date: 2023-08-21 17:00:00   | Activity Name |  Foundation location plan
+
+        PRED | ACTIVITY ID DE.C-1060 | ACTIVITY NAME Demolition Plan Drawings | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0100 | ACTIVITY NAME Site Plot Plan | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140575 |  C.0102  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-14 08:30:00   | Activity Name |  Foundation Plans & Details - Ammonia Scrubber
+
+        PRED | ACTIVITY ID C.0101 | ACTIVITY NAME Foundation location plan | RELATION TYPE PR_SS | LAG 40.0
+
+        PRED | ACTIVITY ID V_M100C80 | ACTIVITY NAME S-001 Ammonia Scrubber - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140693 |  C.0180  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-29 16:30:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Foundation Plans & Details - Nitrogen Tank
+
+        PRED | ACTIVITY ID C.0101 | ACTIVITY NAME Foundation location plan | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0140D | ACTIVITY NAME Hydrogen/ Nitrogen/ Ammonia Storage Tank - Approval - Vendor Drawings IFC | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140694 |  C.180  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-29 16:30:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Foundation Plans & Details - HydrogenTank
+
+        PRED | ACTIVITY ID C.0101 | ACTIVITY NAME Foundation location plan | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0140D | ACTIVITY NAME Hydrogen/ Nitrogen/ Ammonia Storage Tank - Approval - Vendor Drawings IFC | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140571 |  C.0110  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 08:00:00 | End Date: 2023-10-04 08:30:00   | Activity Name |  Foundation Plans & Details - Ammonia Storage Tank 1&2
+
+        PRED | ACTIVITY ID C.0101 | ACTIVITY NAME Foundation location plan | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140572 |  C.0120  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-10-10 08:30:00   | Activity Name |  Foundation Plans & Details - Compressed Air Package
+
+        PRED | ACTIVITY ID C.0101 | ACTIVITY NAME Foundation location plan | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100C190 | ACTIVITY NAME Z-001 Compressed Air Package - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140573 |  C.0150  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-10-10 08:30:00   | Activity Name |  Foundation Plans & Details - Selective Catalytic Reactor
+
+        PRED | ACTIVITY ID C.0140 | ACTIVITY NAME Foundation Plans & Details - Plate & Frame Cooler | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100C | ACTIVITY NAME R-001 Selective Catalytic Reactor - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140574 |  C.0160  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-10-10 08:30:00   | Activity Name |  Foundation Plans & Details - Separator
+
+        PRED | ACTIVITY ID C.0150 | ACTIVITY NAME Foundation Plans & Details - Selective Catalytic Reactor | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100C160 | ACTIVITY NAME V-010 Separator (Included in Ammonia Scrubber Package) - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140576 |  C.0140  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-10-10 08:30:00   | Activity Name |  Foundation Plans & Details - Plate & Frame Cooler
+
+        PRED | ACTIVITY ID C.0130 | ACTIVITY NAME Foundation Plans & Details - Cooling Tower | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100C180 | ACTIVITY NAME E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140577 |  C.0130  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-10-10 08:30:00   | Activity Name |  Foundation Plans & Details - Cooling Tower
+
+        PRED | ACTIVITY ID C.0120 | ACTIVITY NAME Foundation Plans & Details - Compressed Air Package | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0130D20 | ACTIVITY NAME E-005 Cooling Tower - Approval - Vendor Drawings IFC | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140692 |  C.0170  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-10-10 08:30:00   | Activity Name |  Foundation Plans & Details - Boiler
+
+        PRED | ACTIVITY ID C.0101 | ACTIVITY NAME Foundation location plan | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100C100 | ACTIVITY NAME Boiler Package - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140453 |  DE.C-1110  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-25 08:30:00 | End Date: 2023-10-10 08:30:00   | Activity Name |  Foundation IFC
+
+        PRED | ACTIVITY ID C.0101 | ACTIVITY NAME Foundation location plan | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID C.0110 | ACTIVITY NAME Foundation Plans & Details - Ammonia Storage Tank 1&2 | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0102 | ACTIVITY NAME Foundation Plans & Details - Ammonia Scrubber | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0120 | ACTIVITY NAME Foundation Plans & Details - Compressed Air Package | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0130 | ACTIVITY NAME Foundation Plans & Details - Cooling Tower | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0140 | ACTIVITY NAME Foundation Plans & Details - Plate & Frame Cooler | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0150 | ACTIVITY NAME Foundation Plans & Details - Selective Catalytic Reactor | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0160 | ACTIVITY NAME Foundation Plans & Details - Separator | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0170 | ACTIVITY NAME Foundation Plans & Details - Boiler | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.0180 | ACTIVITY NAME Foundation Plans & Details - Nitrogen Tank | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID C.180 | ACTIVITY NAME Foundation Plans & Details - HydrogenTank | RELATION TYPE PR_FF | LAG 0.0
+
+WBS: Structural
+
+    Activity ID  140454 |  DE.C-1050  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-03 08:00:00 | End Date: 2023-09-04 17:00:00   | Activity Name |  Structural Steel IFC
+
+        PRED | ACTIVITY ID DE.C-1020 | ACTIVITY NAME Architechture IFC (KSS) | RELATION TYPE PR_FF | LAG 40.0
+
+    Activity ID  140468 |  DE.C-1060  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-14 17:00:00   | Activity Name |  Demolition Plan Drawings
+
+        PRED | ACTIVITY ID C.0100 | ACTIVITY NAME Site Plot Plan | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140519 |  DE.C-1120  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-14 17:00:00   | Activity Name |  Structure Modification Calculation and Drawings
+
+        PRED | ACTIVITY ID DE.C-1060 | ACTIVITY NAME Demolition Plan Drawings | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140472 |  DE.C-1090  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-14 17:00:00   | Activity Name |  Steel Plans and Sections
+
+        PRED | ACTIVITY ID DE.C-1120 | ACTIVITY NAME Structure Modification Calculation and Drawings | RELATION TYPE PR_FF | LAG 0.0
+
+WBS: Architectural
+
+    Activity ID  140455 |  DE.C-1020  | driving_path_flag |  N  | Pred |  Start Date: 2023-04-17 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  Architechture IFC (KSS)
+
+        PRED | ACTIVITY ID C.0100 | ACTIVITY NAME Site Plot Plan | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID KSS.02380 | ACTIVITY NAME Review 90% Documentation with Amogy & HGA | RELATION TYPE PR_FF | LAG 0.0
+
+WBS: Phase 4
+
+    Activity ID  140592 |  E.PH4.1010  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-01 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  One Line Diagram
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1004 | ACTIVITY NAME Load / Motor List; Load Analysis | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140593 |  E.PH4.1020  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-07 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Panel Schedule
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140594 |  E.PH4.1030  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Cable Schedule
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140595 |  E.PH4.1040  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Power Study
+
+        PRED | ACTIVITY ID DE.E-1004 | ACTIVITY NAME Load / Motor List; Load Analysis | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140596 |  E.PH4.1050  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 11:00:00 | End Date: 2023-10-11 11:00:00   | Activity Name |  Lighting Plans
+
+        PRED | ACTIVITY ID DE.E-1010 | ACTIVITY NAME Installation Details | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140597 |  E.PH4.1060  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-10-13 17:00:00   | Activity Name |  Cable Tray Routing Plans
+
+        PRED | ACTIVITY ID E.PH4.1030 | ACTIVITY NAME Cable Schedule | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Phase 5
+
+    Activity ID  140598 |  E.PH5.1010  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-01 08:00:00 | End Date: 2023-10-20 17:00:00   | Activity Name |  One Line Diagram
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_FF | LAG 0.0
+
+        PRED | ACTIVITY ID DE.E-1004 | ACTIVITY NAME Load / Motor List; Load Analysis | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140601 |  E.PH5.1040  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 14:00:00 | End Date: 2023-10-13 14:00:00   | Activity Name |  Power Study
+
+        PRED | ACTIVITY ID DE.E-1004 | ACTIVITY NAME Load / Motor List; Load Analysis | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1040 | ACTIVITY NAME Power Study | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140599 |  E.PH5.1020  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-10-13 17:00:00   | Activity Name |  Panel Schedule
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1020 | ACTIVITY NAME Panel Schedule | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140600 |  E.PH5.1030  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-10-13 17:00:00   | Activity Name |  Cable Schedule
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1030 | ACTIVITY NAME Cable Schedule | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140602 |  E.PH5.1050  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-11 15:00:00 | End Date: 2023-11-08 15:00:00   | Activity Name |  Lighting Plans
+
+        PRED | ACTIVITY ID DE.E-1010 | ACTIVITY NAME Installation Details | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1050 | ACTIVITY NAME Lighting Plans | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140603 |  E.PH5.1060  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-16 08:00:00 | End Date: 2023-11-10 17:00:00   | Activity Name |  Cable Tray Routing Plans
+
+        PRED | ACTIVITY ID E.PH4.1030 | ACTIVITY NAME Cable Schedule | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID E.PH4.1060 | ACTIVITY NAME Cable Tray Routing Plans | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Major Equipment - Mechanical
+
+    Activity ID  140534 |  PO_ME130  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-03 07:30:00 | End Date: 2023-08-01 09:30:00   | Activity Name |  Process Vent Stack
+
+        PRED | ACTIVITY ID PO_ME120 | ACTIVITY NAME P-004A/B Cooling Water Pump A/B | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID DEMP-100E | ACTIVITY NAME Major Equipment Specs/Datasheets - IFC/IFD | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140578 |  PO_ME100  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-03 07:30:00 | End Date: 2023-08-01 09:30:00   | Activity Name |  Combustion Vent Stack
+
+        PRED | ACTIVITY ID DE.MP1100 | ACTIVITY NAME Mechanical Equipment IFC | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEMP-100E | ACTIVITY NAME Major Equipment Specs/Datasheets - IFC/IFD | RELATION TYPE PR_FF | LAG -160.0
+
+    Activity ID  140526 |  PO_ME110  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-06 08:00:00 | End Date: 2023-10-02 09:30:00   | Activity Name |  E-005 Cooling Tower
+
+        PRED | ACTIVITY ID DEMP-100E | ACTIVITY NAME Major Equipment Specs/Datasheets - IFC/IFD | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140561 |  PO_ME140  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-08 08:00:00 | End Date: 2023-10-09 17:00:00   | Activity Name |  Hydrogen/ Nitrogen/ Amonia Storage Tanks - Amogy
+
+        PRED | ACTIVITY ID PO_ME130 | ACTIVITY NAME Process Vent Stack | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID DEMP-100E | ACTIVITY NAME Major Equipment Specs/Datasheets - IFC/IFD | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140528 |  PO_ME120  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-10-10 09:30:00   | Activity Name |  P-004A/B Cooling Water Pump A/B
+
+        PRED | ACTIVITY ID DEMP-100E | ACTIVITY NAME Major Equipment Specs/Datasheets - IFC/IFD | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140562 |  PO_ME150  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-20 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Delivery of OEM and Operating Manuals (Phase 4 Permit) - M&E
+
+        PRED | ACTIVITY ID PO_ME140 | ACTIVITY NAME Hydrogen/ Nitrogen/ Amonia Storage Tanks - Amogy | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID DEMP-100E | ACTIVITY NAME Major Equipment Specs/Datasheets - IFC/IFD | RELATION TYPE PR_FF | LAG 0.0
+
+WBS: Miscellaneous Equipment
+
+    Activity ID  140579 |  PO_M0100  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-01 08:00:00 | End Date: 2023-07-30 09:30:00   | Activity Name |  R-001 Selective Catalytic Reactor
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140581 |  PO_M0180  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-01 08:00:00 | End Date: 2023-08-01 09:30:00   | Activity Name |  S-001 Ammonia Scrubber
+
+        PRED | ACTIVITY ID DE.MP1100 | ACTIVITY NAME Mechanical Equipment IFC | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140582 |  PO_M0260  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-01 08:00:00 | End Date: 2023-08-01 09:30:00   | Activity Name |  V-010 Separator (Included in Ammonia Scrubber Package)
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140583 |  PO_M0270  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-01 08:00:00 | End Date: 2023-08-01 09:30:00   | Activity Name |  Sulfuric Acid Tank (Included in Ammonia Scrubber Package)
+
+        PRED | ACTIVITY ID DE.MP1100 | ACTIVITY NAME Mechanical Equipment IFC | RELATION TYPE PR_FS | LAG -120.0
+
+    Activity ID  140580 |  PO_M0110  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-22 08:00:00 | End Date: 2023-08-30 09:30:00   | Activity Name |  HVAC System
+
+        PRED | ACTIVITY ID DE.MP1100 | ACTIVITY NAME Mechanical Equipment IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140524 |  PO_M0310  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-29 07:30:00 | End Date: 2023-06-30 16:30:00   | Activity Name |  Z-002 Dessicant Drier Package (Included in Compressed Air Package)
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140587 |  PO_M0320  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-29 07:30:00 | End Date: 2023-06-30 16:30:00   | Activity Name |  V-009 Air Receiver (Included in Compressor Air Package)
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140585 |  PO_M0290  | driving_path_flag |  Y  | Pred |  Start Date: 2023-05-29 08:00:00 | End Date: 2023-06-23 17:00:00   | Activity Name |  Z-001 Compressed Air Package
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140586 |  PO_M0300  | driving_path_flag |  N  | Pred |  Start Date: 2023-05-29 08:00:00 | End Date: 2023-06-23 17:00:00   | Activity Name |  V-006 Knock-Out Drum (Included in Compressed Air Package)
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140584 |  PO_M0280  | driving_path_flag |  Y  | Pred |  Start Date: 2023-06-01 08:00:00 | End Date: 2023-06-23 17:00:00   | Activity Name |  E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package)
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140527 |  PO_M0130  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  T-002 Cooling Tower Water Tank
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140529 |  PO_M0140  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140530 |  PO_M0150  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  P-005 Biocide Metering Pump
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140531 |  PO_M0160  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  T-003 Biocide Tote
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140532 |  PO_M0170  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  Z-003 Water Treatment - Water Softener
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140533 |  PO_M0190  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  Z-004 Water Treatment - Continous De-Ionization Package
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140535 |  PO_M0200  | driving_path_flag |  Y  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  Boiler Pacakge
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140536 |  PO_M0210  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  Ventilation Blowers
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140537 |  PO_M0220  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  Pumps
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140538 |  PO_M0230  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  Centrifugal Pumps
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140539 |  PO_M0240  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  Pipes & Fittings
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140540 |  PO_M0250  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-26 17:00:00   | Activity Name |  Small Bore Valves
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+    Activity ID  140525 |  PO_M0120  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-30 08:00:00 | End Date: 2023-09-28 09:30:00   | Activity Name |  Gas Detection Systems
+
+        PRED | ACTIVITY ID DEMP-100C | ACTIVITY NAME Major Equipment Specs/Datasheets - Client Review/Approval | RELATION TYPE PR_FF | LAG 8.0
+
+WBS: Instrumentation
+
+    Activity ID  140541 |  PO_I100  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-19 09:30:00   | Activity Name |  Flow Instruments
+
+        PRED | ACTIVITY ID DE.I-1020 | ACTIVITY NAME Instrument Index | RELATION TYPE PR_SS | LAG 0.0
+
+        PRED | ACTIVITY ID DE.I-1040 | ACTIVITY NAME Instrument Datasheets / Cutsheets | RELATION TYPE PR_FF | LAG -160.0
+
+    Activity ID  140542 |  PO_I110  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-19 17:00:00   | Activity Name |  Control Valves
+
+        PRED | ACTIVITY ID DE.I-1020 | ACTIVITY NAME Instrument Index | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140543 |  PO_I120  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-19 17:00:00   | Activity Name |  Pressure Instruments
+
+        PRED | ACTIVITY ID DE.I-1020 | ACTIVITY NAME Instrument Index | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140544 |  PO_I130  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-19 17:00:00   | Activity Name |  Temperature Instruments
+
+        PRED | ACTIVITY ID DE.I-1020 | ACTIVITY NAME Instrument Index | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140545 |  PO_I140  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-19 17:00:00   | Activity Name |  Control Systems
+
+        PRED | ACTIVITY ID DE.I-1020 | ACTIVITY NAME Instrument Index | RELATION TYPE PR_SS | LAG 0.0
+
+WBS: Electrical
+
+    Activity ID  140588 |  PO_E130  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-05 07:30:00 | End Date: 2023-08-01 09:30:00   | Activity Name |  E-021 Pad Mounted Transformers
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140590 |  PO_E180  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-10 07:30:00 | End Date: 2023-08-17 17:00:00   | Activity Name |  E-053 DC Power Supplies
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140589 |  PO_E160  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-11 07:30:00 | End Date: 2023-07-21 17:00:00   | Activity Name |  E-042 Dry-Type Transformers
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140547 |  PO_E110  | driving_path_flag |  N  | Pred |  Start Date: 2023-07-17 07:30:00 | End Date: 2023-08-16 09:30:00   | Activity Name |  E-002 LV Switchboard
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140546 |  PO_E100  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  E-001 LV-MCCs
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140548 |  PO_E120  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  E-005 LV-Motor Starters
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140549 |  PO_E140  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  E-034 Load Bank
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140550 |  PO_E150  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  E-041 Distribution Panelboards
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140551 |  PO_E170  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  E-045 Lighting Panelboards
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_SS | LAG 0.0
+
+WBS: Bulk MaterIals
+
+    Activity ID  140553 |  PO_BM20  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-09-04 17:00:00   | Activity Name |  Mechanical/Piping - Bulks Materials
+
+    Activity ID  140552 |  PO_BM10  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-22 08:00:00 | End Date: 2023-09-14 17:00:00   | Activity Name |  Civil - Bulks Materials
+
+        PRED | ACTIVITY ID DE.C-1120 | ACTIVITY NAME Structure Modification Calculation and Drawings | RELATION TYPE PR_SS | LAG 8.0
+
+    Activity ID  140554 |  PO_BM30  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-24 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Electrical - Bulks Materials
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140555 |  PO_BM40  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-24 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Cable Trays
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140556 |  PO_BM50  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-24 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Electrical Cables
+
+        PRED | ACTIVITY ID DE.E-1002 | ACTIVITY NAME Major Equipment Specs / Datasheets | RELATION TYPE PR_FF | LAG 0.0
+
+WBS: Major Equipment - Mechanical
+
+WBS: Miscellaneous Equipment
+
+WBS: Instrumentation
+
+WBS: Electrical
+
+WBS: Bulk MaterIals
+
+WBS: Combustion Vent Stack
+
+    Activity ID  140711 |  V_M0130A10  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-02 09:30:00 | End Date: 2023-08-02 09:30:00   | Activity Name |  Combustion Vent Stack - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_ME100 | ACTIVITY NAME Combustion Vent Stack | RELATION TYPE PR_SS | LAG 0.0
+
+    Activity ID  140712 |  V_M0130B10  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  Combustion Vent Stack - General Arrangement IFC
+
+        PRED | ACTIVITY ID V_M0130A10 | ACTIVITY NAME Combustion Vent Stack - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140713 |  V_M0130C10  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-01 17:00:00   | Activity Name |  Combustion Vent Stack - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0130B10 | ACTIVITY NAME Combustion Vent Stack - General Arrangement IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140714 |  V_M0130D10  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-07 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Combustion Vent Stack - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0130C10 | ACTIVITY NAME Combustion Vent Stack - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140715 |  V_M0130E10  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-11-20 12:00:00   | Activity Name |  Combustion Vent Stack - Start of Production
+
+        PRED | ACTIVITY ID V_M0130D10 | ACTIVITY NAME Combustion Vent Stack - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140716 |  V_M0130F10  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-21 08:00:00 | End Date: 2024-01-25 12:00:00   | Activity Name |  Combustion Vent Stack - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M0130E10 | ACTIVITY NAME Combustion Vent Stack - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-005 Cooling Tower
+
+    Activity ID  140717 |  V_M0130A20  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-02 09:30:00 | End Date: 2023-08-02 09:30:00   | Activity Name |  E-005 Cooling Tower - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_ME110 | ACTIVITY NAME E-005 Cooling Tower | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140718 |  V_M0130B20  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  E-005 Cooling Tower - General Arrangement IFC
+
+        PRED | ACTIVITY ID V_M0130A20 | ACTIVITY NAME E-005 Cooling Tower - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140719 |  V_M0130C20  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-01 17:00:00   | Activity Name |  E-005 Cooling Tower - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0130B20 | ACTIVITY NAME E-005 Cooling Tower - General Arrangement IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140720 |  V_M0130D20  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-09-08 17:00:00   | Activity Name |  E-005 Cooling Tower - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0130C20 | ACTIVITY NAME E-005 Cooling Tower - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140721 |  V_M0130E20  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 08:00:00 | End Date: 2023-11-21 17:00:00   | Activity Name |  E-005 Cooling Tower - Start of Production
+
+        PRED | ACTIVITY ID V_M0130D20 | ACTIVITY NAME E-005 Cooling Tower - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140722 |  V_M0130F20  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-22 08:00:00 | End Date: 2024-01-26 17:00:00   | Activity Name |  E-005 Cooling Tower - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M0130E20 | ACTIVITY NAME E-005 Cooling Tower - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: P-004A/B Cooling Water Pump A/B
+
+    Activity ID  140557 |  V_M0120A  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-20 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  P-004A/B Cooling Water Pump A/B - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_ME120 | ACTIVITY NAME P-004A/B Cooling Water Pump A/B | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140706 |  V_M0120B  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  P-004A/B Cooling Water Pump A/B - General Arrangement IFC
+
+        PRED | ACTIVITY ID V_M0120A | ACTIVITY NAME P-004A/B Cooling Water Pump A/B - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140707 |  V_M0120C  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-10-04 17:00:00   | Activity Name |  P-004A/B Cooling Water Pump A/B - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0120B | ACTIVITY NAME P-004A/B Cooling Water Pump A/B - General Arrangement IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140708 |  V_M0120D  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-05 08:00:00 | End Date: 2023-10-11 17:00:00   | Activity Name |  P-004A/B Cooling Water Pump A/B - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0120C | ACTIVITY NAME P-004A/B Cooling Water Pump A/B - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140709 |  V_M0120E  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-12 08:00:00 | End Date: 2023-12-18 12:00:00   | Activity Name |  P-004A/B Cooling Water Pump A/B - Start of Production
+
+        PRED | ACTIVITY ID V_M0120D | ACTIVITY NAME P-004A/B Cooling Water Pump A/B - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140710 |  V_M0120F  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-19 08:00:00 | End Date: 2024-02-22 12:00:00   | Activity Name |  P-004A/B Cooling Water Pump A/B - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M0120E | ACTIVITY NAME P-004A/B Cooling Water Pump A/B - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Process Vent Stacks
+
+    Activity ID  140591 |  V_M0130A  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-02 08:00:00 | End Date: 2023-08-04 17:00:00   | Activity Name |  Process Vent Stacks - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_ME130 | ACTIVITY NAME Process Vent Stack | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140696 |  V_M0130B  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  Process Vent Stacks - General Arrangement IFC
+
+        PRED | ACTIVITY ID V_M0130A | ACTIVITY NAME Process Vent Stacks - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140697 |  V_M0130C  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-01 17:00:00   | Activity Name |  Process Vent Stacks - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0130B | ACTIVITY NAME Process Vent Stacks - General Arrangement IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140698 |  V_M0130D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-07 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Process Vent Stacks - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0130C | ACTIVITY NAME Process Vent Stacks - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140699 |  V_M0130E  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-11-20 12:00:00   | Activity Name |  Process Vent Stacks - Start of Production
+
+        PRED | ACTIVITY ID V_M0130D | ACTIVITY NAME Process Vent Stacks - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140700 |  V_M0130F  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-21 08:00:00 | End Date: 2024-01-25 12:00:00   | Activity Name |  Process Vent Stacks - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M0130E | ACTIVITY NAME Process Vent Stacks - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Hydrogen/ Nitrogen/ Ammonia Storage Tank - Amogy
+
+    Activity ID  140563 |  V_M0140A  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-02 08:00:00 | End Date: 2023-08-02 17:00:00   | Activity Name |  Hydrogen/ Nitrogen/ Ammonia Storage Tank - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_ME140 | ACTIVITY NAME Hydrogen/ Nitrogen/ Amonia Storage Tanks - Amogy | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140701 |  V_M0140B  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  Hydrogen/ Nitrogen/ Ammonia Storage Tank - General Arrangement IFC
+
+        PRED | ACTIVITY ID V_M0140A | ACTIVITY NAME Hydrogen/ Nitrogen/ Ammonia Storage Tank - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M0140A | ACTIVITY NAME Hydrogen/ Nitrogen/ Ammonia Storage Tank - PO Acknowledgement by Vendor | RELATION TYPE PR_FF | LAG 0.0
+
+    Activity ID  140702 |  V_M0140C  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-09-08 17:00:00   | Activity Name |  Hydrogen/ Nitrogen/ Ammonia Storage Tank- Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0140B | ACTIVITY NAME Hydrogen/ Nitrogen/ Ammonia Storage Tank - General Arrangement IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140703 |  V_M0140D  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-11 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Hydrogen/ Nitrogen/ Ammonia Storage Tank - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0140C | ACTIVITY NAME Hydrogen/ Nitrogen/ Ammonia Storage Tank- Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140704 |  V_M0140E  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-11-22 12:00:00   | Activity Name |  Hydrogen/ Nitrogen/ Ammonia Storage Tank - Start of Production
+
+        PRED | ACTIVITY ID V_M0140D | ACTIVITY NAME Hydrogen/ Nitrogen/ Ammonia Storage Tank - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140705 |  V_M0140F  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-23 08:00:00 | End Date: 2023-11-29 17:00:00   | Activity Name |  Hydrogen/ Nitrogen/ Ammonia Storage Tank - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M0140E | ACTIVITY NAME Hydrogen/ Nitrogen/ Ammonia Storage Tank - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Delivery of OEM and Operating Manuals (Phase 4 Permit) - M&E
+
+    Activity ID  140564 |  V_M0150  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-11-15 17:00:00   | Activity Name |  Delivery of OEM and Operating Manuals (Phase 4 Permit) - M&E
+
+        PRED | ACTIVITY ID PO_ME150 | ACTIVITY NAME Delivery of OEM and Operating Manuals (Phase 4 Permit) - M&E | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: R-001 Selective Catalytic Reactor
+
+    Activity ID  140723 |  V_M100A  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-02 08:00:00 | End Date: 2023-08-02 17:00:00   | Activity Name |  R-001 Selective Catalytic Reactor - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0100 | ACTIVITY NAME R-001 Selective Catalytic Reactor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140724 |  V_M100C  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  R-001 Selective Catalytic Reactor - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A | ACTIVITY NAME R-001 Selective Catalytic Reactor - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140725 |  V_M100D  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-01 17:00:00   | Activity Name |  R-001 Selective Catalytic Reactor - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C | ACTIVITY NAME R-001 Selective Catalytic Reactor - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140726 |  V_M100E  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-11-08 12:00:00   | Activity Name |  R-001 Selective Catalytic Reactor - Start of Production
+
+        PRED | ACTIVITY ID V_M100D | ACTIVITY NAME R-001 Selective Catalytic Reactor - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140727 |  V_M100F  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-09 08:00:00 | End Date: 2023-11-15 17:00:00   | Activity Name |  R-001 Selective Catalytic Reactor - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E | ACTIVITY NAME R-001 Selective Catalytic Reactor - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: HVAC System
+
+    Activity ID  140728 |  V_M0110A  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-21 17:00:00   | Activity Name |  HVAC System - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0110 | ACTIVITY NAME HVAC System | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140729 |  V_M0110C  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-22 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  HVAC System - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0110A | ACTIVITY NAME HVAC System - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140730 |  V_M0110D  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-29 08:00:00 | End Date: 2023-09-04 17:00:00   | Activity Name |  HVAC System - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M0110C | ACTIVITY NAME HVAC System - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140731 |  V_M0110E  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-05 08:00:00 | End Date: 2023-11-09 12:00:00   | Activity Name |  HVAC System - Start of Production
+
+        PRED | ACTIVITY ID V_M0110D | ACTIVITY NAME HVAC System - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140732 |  V_M0110F  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-10 08:00:00 | End Date: 2023-11-16 17:00:00   | Activity Name |  HVAC System - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M0110E | ACTIVITY NAME HVAC System - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Gas Detection Systems
+
+    Activity ID  140733 |  V_M100A20  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Gas Detection Systems - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0120 | ACTIVITY NAME Gas Detection Systems | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140734 |  V_M100C20  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Gas Detection Systems - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A20 | ACTIVITY NAME Gas Detection Systems - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140735 |  V_M100D20  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Gas Detection Systems - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C20 | ACTIVITY NAME Gas Detection Systems - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140736 |  V_M100E20  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Gas Detection Systems - Start of Production
+
+        PRED | ACTIVITY ID V_M100D20 | ACTIVITY NAME Gas Detection Systems - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140737 |  V_M100F20  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Gas Detection Systems - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E20 | ACTIVITY NAME Gas Detection Systems - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: T-002 Cooling Tower Water Tank
+
+    Activity ID  140738 |  V_M100A30  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  T-002 Cooling Tower Water Tank - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0130 | ACTIVITY NAME T-002 Cooling Tower Water Tank | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140739 |  V_M100C30  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  T-002 Cooling Tower Water Tank - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A30 | ACTIVITY NAME T-002 Cooling Tower Water Tank - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140740 |  V_M100D30  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  T-002 Cooling Tower Water Tank - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C30 | ACTIVITY NAME T-002 Cooling Tower Water Tank - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140741 |  V_M100E30  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  T-002 Cooling Tower Water Tank - Start of Production
+
+        PRED | ACTIVITY ID V_M100D30 | ACTIVITY NAME T-002 Cooling Tower Water Tank - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140742 |  V_M100F30  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  T-002 Cooling Tower Water Tank - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E30 | ACTIVITY NAME T-002 Cooling Tower Water Tank - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump
+
+    Activity ID  140743 |  V_M100A40  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0140 | ACTIVITY NAME P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140744 |  V_M100C40  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A40 | ACTIVITY NAME P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140745 |  V_M100D40  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C40 | ACTIVITY NAME P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140746 |  V_M100E40  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump - Start of Production
+
+        PRED | ACTIVITY ID V_M100D40 | ACTIVITY NAME P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140747 |  V_M100F40  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E40 | ACTIVITY NAME P-006 Anti-Scalant/Corrosion Inhibitor Metering Pump - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: P-005 Biocide Metering Pump
+
+    Activity ID  140748 |  V_M100A50  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  P-005 Biocide Metering Pump - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0150 | ACTIVITY NAME P-005 Biocide Metering Pump | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140749 |  V_M100C50  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  P-005 Biocide Metering Pump - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A50 | ACTIVITY NAME P-005 Biocide Metering Pump - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140750 |  V_M100D50  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  P-005 Biocide Metering Pump - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C50 | ACTIVITY NAME P-005 Biocide Metering Pump - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140751 |  V_M100E50  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  P-005 Biocide Metering Pump - Start of Production
+
+        PRED | ACTIVITY ID V_M100D50 | ACTIVITY NAME P-005 Biocide Metering Pump - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140752 |  V_M100F50  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  P-005 Biocide Metering Pump - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E50 | ACTIVITY NAME P-005 Biocide Metering Pump - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: T-003 Biocide Tote
+
+    Activity ID  140753 |  V_M100A60  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  T-003 Biocide Tote - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0160 | ACTIVITY NAME T-003 Biocide Tote | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140754 |  V_M100C60  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  T-003 Biocide Tote - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A60 | ACTIVITY NAME T-003 Biocide Tote - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140755 |  V_M100D60  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  T-003 Biocide Tote - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C60 | ACTIVITY NAME T-003 Biocide Tote - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140756 |  V_M100E60  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  T-003 Biocide Tote - Start of Production
+
+        PRED | ACTIVITY ID V_M100D60 | ACTIVITY NAME T-003 Biocide Tote - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140757 |  V_M100F60  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  T-003 Biocide Tote - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E60 | ACTIVITY NAME T-003 Biocide Tote - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Z-003 Water Treatment - Water Softener
+
+    Activity ID  140758 |  V_M100A70  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Z-003 Water Treatment - Water Softener - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0170 | ACTIVITY NAME Z-003 Water Treatment - Water Softener | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140759 |  V_M100C70  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Z-003 Water Treatment - Water Softener - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A70 | ACTIVITY NAME Z-003 Water Treatment - Water Softener - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140760 |  V_M100D70  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Z-003 Water Treatment - Water Softener - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C70 | ACTIVITY NAME Z-003 Water Treatment - Water Softener - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140761 |  V_M100E70  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Z-003 Water Treatment - Water Softener - Start of Production
+
+        PRED | ACTIVITY ID V_M100D70 | ACTIVITY NAME Z-003 Water Treatment - Water Softener - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140762 |  V_M100F70  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Z-003 Water Treatment - Water Softener - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E70 | ACTIVITY NAME Z-003 Water Treatment - Water Softener - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: S-001 Ammonia Scrubber
+
+    Activity ID  140763 |  V_M100A80  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-02 08:00:00 | End Date: 2023-08-02 17:00:00   | Activity Name |  S-001 Ammonia Scrubber - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0180 | ACTIVITY NAME S-001 Ammonia Scrubber | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140764 |  V_M100C80  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  S-001 Ammonia Scrubber - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID PO_M0180 | ACTIVITY NAME S-001 Ammonia Scrubber | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID V_M100A80 | ACTIVITY NAME S-001 Ammonia Scrubber - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140765 |  V_M100D80  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-01 17:00:00   | Activity Name |  S-001 Ammonia Scrubber - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C80 | ACTIVITY NAME S-001 Ammonia Scrubber - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140766 |  V_M100E80  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-11-08 12:00:00   | Activity Name |  S-001 Ammonia Scrubber - Start of Production
+
+        PRED | ACTIVITY ID V_M100D80 | ACTIVITY NAME S-001 Ammonia Scrubber - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140767 |  V_M100F80  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-09 08:00:00 | End Date: 2023-11-15 17:00:00   | Activity Name |  S-001 Ammonia Scrubber - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E80 | ACTIVITY NAME S-001 Ammonia Scrubber - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Z-004 Water Treatment - Continous De-Ionization Package
+
+    Activity ID  140768 |  V_M100A90  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Z-004 Water Treatment - Continous De-Ionization Package - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0190 | ACTIVITY NAME Z-004 Water Treatment - Continous De-Ionization Package | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140769 |  V_M100C90  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Z-004 Water Treatment - Continous De-Ionization Package - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A90 | ACTIVITY NAME Z-004 Water Treatment - Continous De-Ionization Package - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140770 |  V_M100D90  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Z-004 Water Treatment - Continous De-Ionization Package - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C90 | ACTIVITY NAME Z-004 Water Treatment - Continous De-Ionization Package - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140771 |  V_M100E90  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Z-004 Water Treatment - Continous De-Ionization Package - Start of Production
+
+        PRED | ACTIVITY ID V_M100D90 | ACTIVITY NAME Z-004 Water Treatment - Continous De-Ionization Package - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140772 |  V_M100F90  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Z-004 Water Treatment - Continous De-Ionization Package - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E90 | ACTIVITY NAME Z-004 Water Treatment - Continous De-Ionization Package - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Boiler Pacakge
+
+    Activity ID  140773 |  V_M100A100  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Boiler Package - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0200 | ACTIVITY NAME Boiler Pacakge | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140774 |  V_M100C100  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Boiler Package - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A100 | ACTIVITY NAME Boiler Package - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140775 |  V_M100D100  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Boiler Package - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C100 | ACTIVITY NAME Boiler Package - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140776 |  V_M100E100  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Boiler Package - Start of Production
+
+        PRED | ACTIVITY ID V_M100D100 | ACTIVITY NAME Boiler Package - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140777 |  V_M100F100  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Boiler Package - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E100 | ACTIVITY NAME Boiler Package - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Ventilation Blowers
+
+    Activity ID  140778 |  V_M100A110  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Ventilation Blowers - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0210 | ACTIVITY NAME Ventilation Blowers | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140779 |  V_M100C110  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Ventilation Blowers - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A110 | ACTIVITY NAME Ventilation Blowers - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140780 |  V_M100D110  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Ventilation Blowers - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C110 | ACTIVITY NAME Ventilation Blowers - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140781 |  V_M100E110  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Ventilation Blowers - Start of Production
+
+        PRED | ACTIVITY ID V_M100D110 | ACTIVITY NAME Ventilation Blowers - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140782 |  V_M100F110  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Ventilation Blowers - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E110 | ACTIVITY NAME Ventilation Blowers - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Pumps
+
+    Activity ID  140783 |  V_M100A120  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Pumps - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0220 | ACTIVITY NAME Pumps | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140784 |  V_M100C120  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Pumps - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A120 | ACTIVITY NAME Pumps - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140785 |  V_M100D120  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Pumps - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C120 | ACTIVITY NAME Pumps - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140786 |  V_M100E120  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Pumps - Start of Production
+
+        PRED | ACTIVITY ID V_M100D120 | ACTIVITY NAME Pumps - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140787 |  V_M100F120  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Pumps - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E120 | ACTIVITY NAME Pumps - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Centrifugal Pumps
+
+    Activity ID  140788 |  V_M100A130  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Centrifugal Pumps - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0230 | ACTIVITY NAME Centrifugal Pumps | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140789 |  V_M100C130  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Centrifugal Pumps - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A130 | ACTIVITY NAME Centrifugal Pumps - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140790 |  V_M100D130  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Centrifugal Pumps - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C130 | ACTIVITY NAME Centrifugal Pumps - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140791 |  V_M100E130  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Centrifugal Pumps - Start of Production
+
+        PRED | ACTIVITY ID V_M100D130 | ACTIVITY NAME Centrifugal Pumps - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140792 |  V_M100F130  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Centrifugal Pumps - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E130 | ACTIVITY NAME Centrifugal Pumps - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Pipes & Fittings
+
+    Activity ID  140793 |  V_M100A140  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Pipes & Fittings - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0240 | ACTIVITY NAME Pipes & Fittings | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140794 |  V_M100C140  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Pipes & Fittings - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A140 | ACTIVITY NAME Pipes & Fittings - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140795 |  V_M100D140  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Pipes & Fittings - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C140 | ACTIVITY NAME Pipes & Fittings - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140796 |  V_M100E140  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Pipes & Fittings - Start of Production
+
+        PRED | ACTIVITY ID V_M100D140 | ACTIVITY NAME Pipes & Fittings - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140797 |  V_M100F140  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Pipes & Fittings - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E140 | ACTIVITY NAME Pipes & Fittings - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Small Bore Valves
+
+    Activity ID  140798 |  V_M100A150  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Small Bore Valves - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0250 | ACTIVITY NAME Small Bore Valves | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140799 |  V_M100C150  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Small Bore Valves - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A150 | ACTIVITY NAME Small Bore Valves - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140800 |  V_M100D150  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Small Bore Valves - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C150 | ACTIVITY NAME Small Bore Valves - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140801 |  V_M100E150  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Small Bore Valves - Start of Production
+
+        PRED | ACTIVITY ID V_M100D150 | ACTIVITY NAME Small Bore Valves - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140802 |  V_M100F150  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Small Bore Valves - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E150 | ACTIVITY NAME Small Bore Valves - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: V-010 Separator (Included in Ammonia Scrubber Package)
+
+    Activity ID  140803 |  V_M100A160  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-02 08:00:00 | End Date: 2023-08-02 17:00:00   | Activity Name |  V-010 Separator (Included in Ammonia Scrubber Package) - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0260 | ACTIVITY NAME V-010 Separator (Included in Ammonia Scrubber Package) | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140804 |  V_M100C160  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  V-010 Separator (Included in Ammonia Scrubber Package) - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A160 | ACTIVITY NAME V-010 Separator (Included in Ammonia Scrubber Package) - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140805 |  V_M100D160  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-01 17:00:00   | Activity Name |  V-010 Separator (Included in Ammonia Scrubber Package) - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C160 | ACTIVITY NAME V-010 Separator (Included in Ammonia Scrubber Package) - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140806 |  V_M100E160  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-11-08 12:00:00   | Activity Name |  V-010 Separator (Included in Ammonia Scrubber Package) - Start of Production
+
+        PRED | ACTIVITY ID V_M100D160 | ACTIVITY NAME V-010 Separator (Included in Ammonia Scrubber Package) - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140807 |  V_M100F160  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-09 08:00:00 | End Date: 2023-11-15 17:00:00   | Activity Name |  V-010 Separator (Included in Ammonia Scrubber Package) - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E160 | ACTIVITY NAME V-010 Separator (Included in Ammonia Scrubber Package) - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Sulfuric Acid Tank (Included in Ammonia Scrubber Package)
+
+    Activity ID  140808 |  V_M100A170  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-02 08:00:00 | End Date: 2023-08-02 17:00:00   | Activity Name |  Sulfuric Acid Tank (Included in Ammonia Scrubber Package) - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0270 | ACTIVITY NAME Sulfuric Acid Tank (Included in Ammonia Scrubber Package) | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140809 |  V_M100C170  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  Sulfuric Acid Tank (Included in Ammonia Scrubber Package) - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A170 | ACTIVITY NAME Sulfuric Acid Tank (Included in Ammonia Scrubber Package) - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140810 |  V_M100D170  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-01 17:00:00   | Activity Name |  Sulfuric Acid Tank (Included in Ammonia Scrubber Package) - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C170 | ACTIVITY NAME Sulfuric Acid Tank (Included in Ammonia Scrubber Package) - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140811 |  V_M100E170  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-11-08 12:00:00   | Activity Name |  Sulfuric Acid Tank (Included in Ammonia Scrubber Package) - Start of Production
+
+        PRED | ACTIVITY ID V_M100D170 | ACTIVITY NAME Sulfuric Acid Tank (Included in Ammonia Scrubber Package) - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140812 |  V_M100F170  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-09 08:00:00 | End Date: 2023-11-15 17:00:00   | Activity Name |  Sulfuric Acid Tank (Included in Ammonia Scrubber Package) - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E170 | ACTIVITY NAME Sulfuric Acid Tank (Included in Ammonia Scrubber Package) - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package)
+
+    Activity ID  140813 |  V_M100A180  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0280 | ACTIVITY NAME E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140814 |  V_M100C180  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A180 | ACTIVITY NAME E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140815 |  V_M100D180  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C180 | ACTIVITY NAME E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140816 |  V_M100E180  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - Start of Production
+
+        PRED | ACTIVITY ID V_M100D180 | ACTIVITY NAME E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140817 |  V_M100F180  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E180 | ACTIVITY NAME E-003 Plate & Frame Cooler (Included in Ammonia Scrubber Package) - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Z-001 Compressed Air Package
+
+    Activity ID  140818 |  V_M100A190  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Z-001 Compressed Air Package - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0290 | ACTIVITY NAME Z-001 Compressed Air Package | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140819 |  V_M100C190  | driving_path_flag |  Y  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Z-001 Compressed Air Package - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A190 | ACTIVITY NAME Z-001 Compressed Air Package - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140820 |  V_M100D190  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Z-001 Compressed Air Package - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C190 | ACTIVITY NAME Z-001 Compressed Air Package - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140821 |  V_M100E190  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Z-001 Compressed Air Package - Start of Production
+
+        PRED | ACTIVITY ID V_M100D190 | ACTIVITY NAME Z-001 Compressed Air Package - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140822 |  V_M100F190  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Z-001 Compressed Air Package - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E190 | ACTIVITY NAME Z-001 Compressed Air Package - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: V-006 Knock-Out Drum (Included in Compressed Air Package)
+
+    Activity ID  140823 |  V_M100A200  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  V-006 Knock-Out Drum (Included in Compressed Air Package) - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0300 | ACTIVITY NAME V-006 Knock-Out Drum (Included in Compressed Air Package) | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140824 |  V_M100C200  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  V-006 Knock-Out Drum (Included in Compressed Air Package) - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A200 | ACTIVITY NAME V-006 Knock-Out Drum (Included in Compressed Air Package) - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140825 |  V_M100D200  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-20 13:00:00 | End Date: 2023-09-27 12:00:00   | Activity Name |  V-006 Knock-Out Drum (Included in Compressed Air Package) - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C200 | ACTIVITY NAME V-006 Knock-Out Drum (Included in Compressed Air Package) - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140826 |  V_M100E200  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-27 13:00:00 | End Date: 2023-12-01 17:00:00   | Activity Name |  V-006 Knock-Out Drum (Included in Compressed Air Package) - Start of Production
+
+        PRED | ACTIVITY ID V_M100D200 | ACTIVITY NAME V-006 Knock-Out Drum (Included in Compressed Air Package) - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140827 |  V_M100F200  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-04 13:00:00 | End Date: 2023-12-11 12:00:00   | Activity Name |  V-006 Knock-Out Drum (Included in Compressed Air Package) - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E200 | ACTIVITY NAME V-006 Knock-Out Drum (Included in Compressed Air Package) - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Z-002 Dessicant Drier Package (Included in Compressed Air Package)
+
+    Activity ID  140828 |  V_M100A210  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  Z-002 Dessicant Drier Package (Included in Compressed Air Package) - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0310 | ACTIVITY NAME Z-002 Dessicant Drier Package (Included in Compressed Air Package) | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140829 |  V_M100C210  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  Z-002 Dessicant Drier Package (Included in Compressed Air Package) - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A210 | ACTIVITY NAME Z-002 Dessicant Drier Package (Included in Compressed Air Package) - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140830 |  V_M100D210  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  Z-002 Dessicant Drier Package (Included in Compressed Air Package) - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C210 | ACTIVITY NAME Z-002 Dessicant Drier Package (Included in Compressed Air Package) - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140831 |  V_M100E210  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  Z-002 Dessicant Drier Package (Included in Compressed Air Package) - Start of Production
+
+        PRED | ACTIVITY ID V_M100D210 | ACTIVITY NAME Z-002 Dessicant Drier Package (Included in Compressed Air Package) - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140832 |  V_M100F210  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  Z-002 Dessicant Drier Package (Included in Compressed Air Package) - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E210 | ACTIVITY NAME Z-002 Dessicant Drier Package (Included in Compressed Air Package) - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: V-009 Air Receiver (Included in Compressor Air Package)
+
+    Activity ID  140833 |  V_M100A220  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-13 17:00:00   | Activity Name |  V-009 Air Receiver (Included in Compressor Air Package) - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_M0320 | ACTIVITY NAME V-009 Air Receiver (Included in Compressor Air Package) | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140834 |  V_M100C220  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 08:00:00 | End Date: 2023-09-20 17:00:00   | Activity Name |  V-009 Air Receiver (Included in Compressor Air Package) - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A220 | ACTIVITY NAME V-009 Air Receiver (Included in Compressor Air Package) - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140835 |  V_M100D220  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-21 08:00:00 | End Date: 2023-09-27 17:00:00   | Activity Name |  V-009 Air Receiver (Included in Compressor Air Package) - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C220 | ACTIVITY NAME V-009 Air Receiver (Included in Compressor Air Package) - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140836 |  V_M100E220  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-28 08:00:00 | End Date: 2023-12-04 12:00:00   | Activity Name |  V-009 Air Receiver (Included in Compressor Air Package) - Start of Production
+
+        PRED | ACTIVITY ID V_M100D220 | ACTIVITY NAME V-009 Air Receiver (Included in Compressor Air Package) - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140837 |  V_M100F220  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-05 08:00:00 | End Date: 2023-12-11 17:00:00   | Activity Name |  V-009 Air Receiver (Included in Compressor Air Package) - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E220 | ACTIVITY NAME V-009 Air Receiver (Included in Compressor Air Package) - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Flow Instruments
+
+    Activity ID  140838 |  V_M100A230  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 09:30:00 | End Date: 2023-09-15 09:30:00   | Activity Name |  Flow Instruments - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_I100 | ACTIVITY NAME Flow Instruments | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140839 |  V_M100C230  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 09:30:00 | End Date: 2023-09-22 09:30:00   | Activity Name |  Flow Instruments - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A230 | ACTIVITY NAME Flow Instruments - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140840 |  V_M100D230  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-22 09:30:00 | End Date: 2023-09-29 09:30:00   | Activity Name |  Flow Instruments - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C230 | ACTIVITY NAME Flow Instruments - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140841 |  V_M100E230  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-29 09:30:00 | End Date: 2023-12-05 14:30:00   | Activity Name |  Flow Instruments - Start of Production
+
+        PRED | ACTIVITY ID V_M100D230 | ACTIVITY NAME Flow Instruments - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140842 |  V_M100F230  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-06 09:30:00 | End Date: 2023-12-13 09:30:00   | Activity Name |  Flow Instruments - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E230 | ACTIVITY NAME Flow Instruments - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Control Valves
+
+    Activity ID  140843 |  V_M100A240  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 09:30:00 | End Date: 2023-09-15 09:30:00   | Activity Name |  Control Valves - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_I110 | ACTIVITY NAME Control Valves | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140844 |  V_M100C240  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 09:30:00 | End Date: 2023-09-22 09:30:00   | Activity Name |  Control Valves - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A240 | ACTIVITY NAME Control Valves - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140845 |  V_M100D240  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-22 09:30:00 | End Date: 2023-09-29 09:30:00   | Activity Name |  Control Valves - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C240 | ACTIVITY NAME Control Valves - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140846 |  V_M100E240  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-29 09:30:00 | End Date: 2023-12-05 14:30:00   | Activity Name |  Control Valves - Start of Production
+
+        PRED | ACTIVITY ID V_M100D240 | ACTIVITY NAME Control Valves - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140847 |  V_M100F240  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-06 09:30:00 | End Date: 2023-12-13 09:30:00   | Activity Name |  Control Valves - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E240 | ACTIVITY NAME Control Valves - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Pressure Instruments
+
+    Activity ID  140848 |  V_M100A250  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 09:30:00 | End Date: 2023-09-15 09:30:00   | Activity Name |  Pressure Instruments - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_I120 | ACTIVITY NAME Pressure Instruments | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140849 |  V_M100C250  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 09:30:00 | End Date: 2023-09-22 09:30:00   | Activity Name |  Pressure Instruments - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A250 | ACTIVITY NAME Pressure Instruments - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140850 |  V_M100D250  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-22 09:30:00 | End Date: 2023-09-29 09:30:00   | Activity Name |  Pressure Instruments - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C250 | ACTIVITY NAME Pressure Instruments - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140851 |  V_M100E250  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-29 09:30:00 | End Date: 2023-12-05 14:30:00   | Activity Name |  Pressure Instruments - Start of Production
+
+        PRED | ACTIVITY ID V_M100D250 | ACTIVITY NAME Pressure Instruments - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140852 |  V_M100F250  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-06 09:30:00 | End Date: 2023-12-13 09:30:00   | Activity Name |  Pressure Instruments - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E250 | ACTIVITY NAME Pressure Instruments - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Temperature Instruments
+
+    Activity ID  140853 |  V_M100A260  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 09:30:00 | End Date: 2023-09-15 09:30:00   | Activity Name |  Temperature Instruments - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_I130 | ACTIVITY NAME Temperature Instruments | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140854 |  V_M100C260  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 09:30:00 | End Date: 2023-09-22 09:30:00   | Activity Name |  Temperature Instruments - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A260 | ACTIVITY NAME Temperature Instruments - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140855 |  V_M100D260  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-22 09:30:00 | End Date: 2023-09-29 09:30:00   | Activity Name |  Temperature Instruments - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C260 | ACTIVITY NAME Temperature Instruments - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140856 |  V_M100E260  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-29 09:30:00 | End Date: 2023-12-05 14:30:00   | Activity Name |  Temperature Instruments - Start of Production
+
+        PRED | ACTIVITY ID V_M100D260 | ACTIVITY NAME Temperature Instruments - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140857 |  V_M100F260  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-06 09:30:00 | End Date: 2023-12-13 09:30:00   | Activity Name |  Temperature Instruments - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E260 | ACTIVITY NAME Temperature Instruments - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Control Systems
+
+    Activity ID  140858 |  V_M100A270  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-14 09:30:00 | End Date: 2023-09-15 09:30:00   | Activity Name |  Control Systems - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_I140 | ACTIVITY NAME Control Systems | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140859 |  V_M100C270  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 09:30:00 | End Date: 2023-09-22 09:30:00   | Activity Name |  Control Systems - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A270 | ACTIVITY NAME Control Systems - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140860 |  V_M100D270  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-22 09:30:00 | End Date: 2023-09-29 09:30:00   | Activity Name |  Control Systems - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C270 | ACTIVITY NAME Control Systems - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140861 |  V_M100E270  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-29 09:30:00 | End Date: 2023-12-05 14:30:00   | Activity Name |  Control Systems - Start of Production
+
+        PRED | ACTIVITY ID V_M100D270 | ACTIVITY NAME Control Systems - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140862 |  V_M100F270  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-06 09:30:00 | End Date: 2023-12-13 09:30:00   | Activity Name |  Control Systems - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E270 | ACTIVITY NAME Control Systems - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-001 LV-MCCs
+
+    Activity ID  140863 |  V_M100A280  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-02 08:00:00 | End Date: 2023-08-02 17:00:00   | Activity Name |  E-001 LV-MCCs - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_E100 | ACTIVITY NAME E-001 LV-MCCs | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140864 |  V_M100B280  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-25 17:00:00   | Activity Name |  E-001 LV-MCCs - General Arrangement IFC
+
+        PRED | ACTIVITY ID V_M100A280 | ACTIVITY NAME E-001 LV-MCCs - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140865 |  V_M100C280  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-28 08:00:00 | End Date: 2023-09-01 17:00:00   | Activity Name |  E-001 LV-MCCs - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100B280 | ACTIVITY NAME E-001 LV-MCCs - General Arrangement IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140866 |  V_M100D280  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-04 08:00:00 | End Date: 2023-09-08 17:00:00   | Activity Name |  E-001 LV-MCCs - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C280 | ACTIVITY NAME E-001 LV-MCCs - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140867 |  V_M100E280  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-11 08:00:00 | End Date: 2023-11-15 12:00:00   | Activity Name |  E-001 LV-MCCs - Start of Production
+
+        PRED | ACTIVITY ID V_M100D280 | ACTIVITY NAME E-001 LV-MCCs - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140868 |  V_M100F280  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-16 08:00:00 | End Date: 2023-11-22 17:00:00   | Activity Name |  E-001 LV-MCCs - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E280 | ACTIVITY NAME E-001 LV-MCCs - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-002 LV Switchboard
+
+    Activity ID  140869 |  V_M100A290  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-21 17:00:00   | Activity Name |  E-002 LV Switchboard - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_E110 | ACTIVITY NAME E-002 LV Switchboard | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140870 |  V_M100C290  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-22 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  E-002 LV Switchboard - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A290 | ACTIVITY NAME E-002 LV Switchboard - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140871 |  V_M100D290  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-29 08:00:00 | End Date: 2023-09-04 17:00:00   | Activity Name |  E-002 LV Switchboard - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C290 | ACTIVITY NAME E-002 LV Switchboard - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140872 |  V_M100E290  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-05 08:00:00 | End Date: 2023-11-09 12:00:00   | Activity Name |  E-002 LV Switchboard - Start of Production
+
+        PRED | ACTIVITY ID V_M100D290 | ACTIVITY NAME E-002 LV Switchboard - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140873 |  V_M100F290  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-10 08:00:00 | End Date: 2023-11-16 17:00:00   | Activity Name |  E-002 LV Switchboard- Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E290 | ACTIVITY NAME E-002 LV Switchboard - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-005 LV-Motor Starters
+
+    Activity ID  140879 |  V_M100A310  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  E-005 LV-Motor Starters - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_E120 | ACTIVITY NAME E-005 LV-Motor Starters | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140880 |  V_M100C310  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-25 17:00:00   | Activity Name |  E-005 LV-Motor Starters - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A310 | ACTIVITY NAME E-005 LV-Motor Starters - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140881 |  V_M100D310  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-26 08:00:00 | End Date: 2023-10-02 17:00:00   | Activity Name |  E-005 LV-Motor Starters - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C310 | ACTIVITY NAME E-005 LV-Motor Starters - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140882 |  V_M100E310  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-03 08:00:00 | End Date: 2023-12-07 12:00:00   | Activity Name |  E-005 LV-Motor Starters - Start of Production
+
+        PRED | ACTIVITY ID V_M100D310 | ACTIVITY NAME E-005 LV-Motor Starters - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140883 |  V_M100F310  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-08 08:00:00 | End Date: 2023-12-14 17:00:00   | Activity Name |  E-005 LV-Motor Starters - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E310 | ACTIVITY NAME E-005 LV-Motor Starters - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-021 Pad Mounted Transformers
+
+    Activity ID  140874 |  V_M100A300  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-21 17:00:00   | Activity Name |  E-021 Pad Mounted Transformers - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_E130 | ACTIVITY NAME E-021 Pad Mounted Transformers | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140875 |  V_M100C300  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-22 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  E-021 Pad Mounted Transformers - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A300 | ACTIVITY NAME E-021 Pad Mounted Transformers - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140876 |  V_M100D300  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-29 08:00:00 | End Date: 2023-09-04 17:00:00   | Activity Name |  E-021 Pad Mounted Transformers - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C300 | ACTIVITY NAME E-021 Pad Mounted Transformers - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140877 |  V_M100E300  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-05 08:00:00 | End Date: 2023-11-09 12:00:00   | Activity Name |  E-021 Pad Mounted Transformers - Start of Production
+
+        PRED | ACTIVITY ID V_M100D300 | ACTIVITY NAME E-021 Pad Mounted Transformers - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140878 |  V_M100F300  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-10 08:00:00 | End Date: 2023-11-16 17:00:00   | Activity Name |  E-021 Pad Mounted Transformers - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E300 | ACTIVITY NAME E-021 Pad Mounted Transformers - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-034 Load Bank
+
+    Activity ID  140884 |  V_M100A320  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  E-034 Load Bank - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_E140 | ACTIVITY NAME E-034 Load Bank | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140885 |  V_M100C320  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-25 17:00:00   | Activity Name |  E-034 Load Bank - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A320 | ACTIVITY NAME E-034 Load Bank - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140886 |  V_M100D320  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-26 08:00:00 | End Date: 2023-10-02 17:00:00   | Activity Name |  E-034 Load Bank - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C320 | ACTIVITY NAME E-034 Load Bank - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140887 |  V_M100E320  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-03 08:00:00 | End Date: 2023-12-07 12:00:00   | Activity Name |  E-034 Load Bank - Start of Production
+
+        PRED | ACTIVITY ID V_M100D320 | ACTIVITY NAME E-034 Load Bank - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140888 |  V_M100F320  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-08 08:00:00 | End Date: 2023-12-14 17:00:00   | Activity Name |  E-034 Load Bank - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E320 | ACTIVITY NAME E-034 Load Bank - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+        PRED | ACTIVITY ID PO_E150 | ACTIVITY NAME E-041 Distribution Panelboards | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-041 Distribution Panelboards
+
+    Activity ID  140889 |  V_M100A330  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  E-041 Distribution Panelboards - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_E150 | ACTIVITY NAME E-041 Distribution Panelboards | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140890 |  V_M100C330  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-25 17:00:00   | Activity Name |  E-041 Distribution Panelboards - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A330 | ACTIVITY NAME E-041 Distribution Panelboards - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140891 |  V_M100D330  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-26 08:00:00 | End Date: 2023-10-02 17:00:00   | Activity Name |  E-041 Distribution Panelboards - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C330 | ACTIVITY NAME E-041 Distribution Panelboards - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140892 |  V_M100E330  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-03 08:00:00 | End Date: 2023-12-07 12:00:00   | Activity Name |  E-041 Distribution Panelboards - Start of Production
+
+        PRED | ACTIVITY ID V_M100D330 | ACTIVITY NAME E-041 Distribution Panelboards - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140893 |  V_M100F330  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-08 08:00:00 | End Date: 2023-12-14 17:00:00   | Activity Name |  E-041 Distribution Panelboards - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E330 | ACTIVITY NAME E-041 Distribution Panelboards - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-042 Dry-Type Transformers
+
+    Activity ID  140894 |  V_M100A340  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  E-042 Dry-Type Transformers - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_E160 | ACTIVITY NAME E-042 Dry-Type Transformers | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140895 |  V_M100B340  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-25 17:00:00   | Activity Name |  E-042 Dry-Type Transformers - General Arrangement IFC
+
+        PRED | ACTIVITY ID V_M100A340 | ACTIVITY NAME E-042 Dry-Type Transformers - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140896 |  V_M100C340  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-26 08:00:00 | End Date: 2023-10-02 17:00:00   | Activity Name |  E-042 Dry-Type Transformers - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100B340 | ACTIVITY NAME E-042 Dry-Type Transformers - General Arrangement IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140897 |  V_M100D340  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-03 08:00:00 | End Date: 2023-10-09 17:00:00   | Activity Name |  E-042 Dry-Type Transformers - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C340 | ACTIVITY NAME E-042 Dry-Type Transformers - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140898 |  V_M100E340  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-10 08:00:00 | End Date: 2023-12-14 12:00:00   | Activity Name |  E-042 Dry-Type Transformers - Start of Production
+
+        PRED | ACTIVITY ID V_M100D340 | ACTIVITY NAME E-042 Dry-Type Transformers - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140899 |  V_M100F340  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-15 08:00:00 | End Date: 2023-12-21 17:00:00   | Activity Name |  E-042 Dry-Type Transformers - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E340 | ACTIVITY NAME E-042 Dry-Type Transformers - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-045 Lighting Panelboards
+
+    Activity ID  140900 |  V_M100A350  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  E-045 Lighting Panelboards - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_E170 | ACTIVITY NAME E-045 Lighting Panelboards | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140901 |  V_M100C350  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-25 17:00:00   | Activity Name |  E-045 Lighting Panelboards - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A350 | ACTIVITY NAME E-045 Lighting Panelboards - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140902 |  V_M100D350  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-26 08:00:00 | End Date: 2023-10-02 17:00:00   | Activity Name |  E-045 Lighting Panelboards - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C350 | ACTIVITY NAME E-045 Lighting Panelboards - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140903 |  V_M100E350  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-03 08:00:00 | End Date: 2023-12-07 12:00:00   | Activity Name |  E-045 Lighting Panelboards - Start of Production
+
+        PRED | ACTIVITY ID V_M100D350 | ACTIVITY NAME E-045 Lighting Panelboards - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140904 |  V_M100F350  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-08 08:00:00 | End Date: 2023-12-14 17:00:00   | Activity Name |  E-045 Lighting Panelboards - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E350 | ACTIVITY NAME E-045 Lighting Panelboards - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: E-053 DC Power Supplies
+
+    Activity ID  140905 |  V_M100A360  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-21 08:00:00 | End Date: 2023-08-21 17:00:00   | Activity Name |  E-053 DC Power Supplies - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_E180 | ACTIVITY NAME E-053 DC Power Supplies | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140906 |  V_M100C360  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-22 08:00:00 | End Date: 2023-08-28 17:00:00   | Activity Name |  E-053 DC Power Supplies - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A360 | ACTIVITY NAME E-053 DC Power Supplies - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140907 |  V_M100D360  | driving_path_flag |  N  | Pred |  Start Date: 2023-08-29 08:00:00 | End Date: 2023-09-04 17:00:00   | Activity Name |  E-053 DC Power Supplies - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C360 | ACTIVITY NAME E-053 DC Power Supplies - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140908 |  V_M100E360  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-05 08:00:00 | End Date: 2023-11-09 12:00:00   | Activity Name |  E-053 DC Power Supplies - Start of Production
+
+        PRED | ACTIVITY ID V_M100D360 | ACTIVITY NAME E-053 DC Power Supplies - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140909 |  V_M100F360  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-10 08:00:00 | End Date: 2023-11-16 17:00:00   | Activity Name |  E-053 DC Power Supplies - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E360 | ACTIVITY NAME E-053 DC Power Supplies - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Civil - Bulks Materials
+
+    Activity ID  140910 |  V_M100A370  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-15 08:00:00 | End Date: 2023-09-15 17:00:00   | Activity Name |  Civil - Bulks Materials - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_BM10 | ACTIVITY NAME Civil - Bulks Materials | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140911 |  V_M100C370  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-22 17:00:00   | Activity Name |  Civil - Bulks Materials - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A370 | ACTIVITY NAME Civil - Bulks Materials - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140912 |  V_M100D370  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-25 08:00:00 | End Date: 2023-09-29 17:00:00   | Activity Name |  Civil - Bulks Materials - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C370 | ACTIVITY NAME Civil - Bulks Materials - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140913 |  V_M100E370  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-02 08:00:00 | End Date: 2023-12-06 12:00:00   | Activity Name |  Civil - Bulks Materials - Start of Production
+
+        PRED | ACTIVITY ID V_M100D370 | ACTIVITY NAME Civil - Bulks Materials - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140914 |  V_M100F370  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-07 08:00:00 | End Date: 2023-12-13 17:00:00   | Activity Name |  Civil - Bulks Materials - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E370 | ACTIVITY NAME Civil - Bulks Materials - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Mechanical/Piping - Bulks Materials
+
+    Activity ID  140915 |  V_M100A380  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-05 08:00:00 | End Date: 2023-09-05 17:00:00   | Activity Name |  Mechanical/Piping - Bulks Materials - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_BM20 | ACTIVITY NAME Mechanical/Piping - Bulks Materials | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140916 |  V_M100C380  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-06 08:00:00 | End Date: 2023-09-12 17:00:00   | Activity Name |  Mechanical/Piping - Bulks Materials - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A380 | ACTIVITY NAME Mechanical/Piping - Bulks Materials - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140917 |  V_M100D380  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-13 08:00:00 | End Date: 2023-09-19 17:00:00   | Activity Name |  Mechanical/Piping - Bulks Materials - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C380 | ACTIVITY NAME Mechanical/Piping - Bulks Materials - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140918 |  V_M100E380  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-20 08:00:00 | End Date: 2023-11-24 12:00:00   | Activity Name |  Mechanical/Piping - Bulks Materials - Start of Production
+
+        PRED | ACTIVITY ID V_M100D380 | ACTIVITY NAME Mechanical/Piping - Bulks Materials - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140919 |  V_M100F380  | driving_path_flag |  N  | Pred |  Start Date: 2023-11-27 08:00:00 | End Date: 2023-12-01 17:00:00   | Activity Name |  Mechanical/Piping - Bulks Materials - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E380 | ACTIVITY NAME Mechanical/Piping - Bulks Materials - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Electrical - Bulks Materials
+
+    Activity ID  140920 |  V_M100A390  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  Electrical - Bulks Materials - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_BM30 | ACTIVITY NAME Electrical - Bulks Materials | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140921 |  V_M100C390  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-25 17:00:00   | Activity Name |  Electrical - Bulks Materials - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A390 | ACTIVITY NAME Electrical - Bulks Materials - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140922 |  V_M100D390  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-26 08:00:00 | End Date: 2023-10-02 17:00:00   | Activity Name |  Electrical - Bulks Materials - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C390 | ACTIVITY NAME Electrical - Bulks Materials - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140923 |  V_M100E390  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-03 08:00:00 | End Date: 2023-12-07 12:00:00   | Activity Name |  Electrical - Bulks Materials - Start of Production
+
+        PRED | ACTIVITY ID V_M100D390 | ACTIVITY NAME Electrical - Bulks Materials - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140924 |  V_M100F390  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-08 08:00:00 | End Date: 2023-12-14 17:00:00   | Activity Name |  Electrical - Bulks Materials - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E390 | ACTIVITY NAME Electrical - Bulks Materials - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Cable Trays
+
+    Activity ID  140925 |  V_M100A400  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  Cable Trays- PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_BM40 | ACTIVITY NAME Cable Trays | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140926 |  V_M100C400  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-25 17:00:00   | Activity Name |  Cable Trays - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100A400 | ACTIVITY NAME Cable Trays- PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140927 |  V_M100D400  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-26 08:00:00 | End Date: 2023-10-02 17:00:00   | Activity Name |  Cable Trays - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C400 | ACTIVITY NAME Cable Trays - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140928 |  V_M100E400  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-03 08:00:00 | End Date: 2023-12-07 12:00:00   | Activity Name |  Cable Trays - Start of Production
+
+        PRED | ACTIVITY ID V_M100D400 | ACTIVITY NAME Cable Trays - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140929 |  V_M100F400  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-08 08:00:00 | End Date: 2023-12-14 17:00:00   | Activity Name |  Cable Trays - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E400 | ACTIVITY NAME Cable Trays - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
+WBS: Electrical Cables
+
+    Activity ID  140930 |  V_M100A410  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-18 08:00:00 | End Date: 2023-09-18 17:00:00   | Activity Name |  Electrical Cables - PO Acknowledgement by Vendor
+
+        PRED | ACTIVITY ID PO_BM50 | ACTIVITY NAME Electrical Cables | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140931 |  V_M100B410  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-19 08:00:00 | End Date: 2023-09-25 17:00:00   | Activity Name |  Electrical Cables - General Arrangement IFC
+
+        PRED | ACTIVITY ID V_M100A410 | ACTIVITY NAME Electrical Cables - PO Acknowledgement by Vendor | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140932 |  V_M100C410  | driving_path_flag |  N  | Pred |  Start Date: 2023-09-26 08:00:00 | End Date: 2023-10-02 17:00:00   | Activity Name |  Electrical Cables - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100B410 | ACTIVITY NAME Electrical Cables - General Arrangement IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140933 |  V_M100D410  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-03 08:00:00 | End Date: 2023-10-09 17:00:00   | Activity Name |  Electrical Cables - Approval - Vendor Drawings IFC
+
+        PRED | ACTIVITY ID V_M100C410 | ACTIVITY NAME Electrical Cables - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140934 |  V_M100E410  | driving_path_flag |  N  | Pred |  Start Date: 2023-10-10 08:00:00 | End Date: 2023-12-14 12:00:00   | Activity Name |  Electrical Cables - Start of Production
+
+        PRED | ACTIVITY ID V_M100D410 | ACTIVITY NAME Electrical Cables - Approval - Vendor Drawings IFC | RELATION TYPE PR_FS | LAG 0.0
+
+    Activity ID  140935 |  V_M100F410  | driving_path_flag |  N  | Pred |  Start Date: 2023-12-15 08:00:00 | End Date: 2023-12-21 17:00:00   | Activity Name |  Electrical Cables - Delivery/ Material Inspection/ SAT
+
+        PRED | ACTIVITY ID V_M100E410 | ACTIVITY NAME Electrical Cables - Start of Production | RELATION TYPE PR_FS | LAG 0.0
+
