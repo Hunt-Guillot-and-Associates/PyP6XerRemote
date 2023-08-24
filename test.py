@@ -9,7 +9,7 @@ from xerparser.reader import Reader
 
 
 
-urlval = "https://pgmuno.s3.amazonaws.com/media/files/sitewideupload/08-23-2023/hwcdb/AMOGY_B-5_23Aug.xer"
+urlval = "https://example.com/Project1.xer"
 
 xer = Reader(urlval)
 
