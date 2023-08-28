@@ -30,6 +30,7 @@ from xerparser.model.classes.data import Data
 from xerparser.write import writeXER
 import urllib.request
 from urllib.request import urlopen
+from io import BytesIO
 
 class Reader:
 
@@ -319,7 +320,10 @@ class Reader:
         self._data.taskresource = self._activityresources
         self._data.taskactvcodes = self._activitycodes
         self._data.predecessors = self._predecessors
-        csvfile = csv.reader(file, delimiter='\t')
+
+        
+        csvfile = csv.reader(codecs.iterdecode(file, 'utf-8', errors='ignore'), delimiter='\t')
+        next(csvfile)
         for row in csvfile:
             if row[0] =="%T":
                 current_table = row[1]
